@@ -35,7 +35,7 @@ Fill in the sections below yourself, then:
 ## 🔥PREL36: Build your first agent in Copilot Studio
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Build Contoso IT Concierge in this four-hour, hands-on pre-day lab using the GitHub Copilot harness in Microsoft Copilot Studio. Ground the agent in approved knowledge, connect live SharePoint data and reusable skills, automate confirmed device requests with a workflow, and publish it to an employee channel.
 
 ### 🚀 Getting started
 
@@ -43,33 +43,32 @@ Add your session description here. Keep it concise — 2-3 sentences about what 
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
+1. Open your assigned Skillable environment and sign in with the credentials in **Resources**.
+2. Confirm access to the assigned Copilot Studio environment, Contoso IT SharePoint site, and lab mailbox.
+3. Follow the [four-hour lab instructions](instructions/README.md), including the two scheduled breaks.
 
 #### On your own
 
 If you're learning at your own pace:
 
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
+1. Clone or download this repository.
+2. Prepare the resources in [Lab environment setup](docs/Lab-Environment-Setup.md). Provisioning is outside the four-hour attendee agenda.
+3. Follow the [lab instructions](instructions/README.md), replacing Skillable resource references with your own environment values.
 
 ### 🎯 Learning outcomes
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Build a scoped, instruction-driven agent and ground its answers in approved knowledge.
+- Connect live SharePoint data and reusable skills for reliable device guidance.
+- Execute confirmed requests through a workflow, verify cancellation, and publish to an employee channel.
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Microsoft Copilot Studio and the GitHub Copilot harness
+- Microsoft Power Platform solutions
+- SharePoint and Office 365 Outlook connectors
+- Microsoft Teams and Microsoft 365 Copilot
 
 ### 📚 Continue your learning
 
