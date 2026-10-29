@@ -1,10 +1,5 @@
-# Docs
+# Reference material
 
-<!-- IGNITE TEMPLATE PLACEHOLDER: remove this folder when the session needs no additional documentation. -->
+- [Lab environment setup](Lab-Environment-Setup.md): Resource requirements, provisioning steps, runtime contracts, and the delivery rehearsal checklist for instructors and Skillable authors.
 
-Use this folder for supporting documentation such as reference material and
-architecture/context.
-
-If this repository intentionally uses MkDocs or another docs-site pattern,
-attendee instructions can remain here. Link the attendee entry point clearly
-from the root README.
+For attendee exercises, follow the [lab instructions](../instructions/README.md).
