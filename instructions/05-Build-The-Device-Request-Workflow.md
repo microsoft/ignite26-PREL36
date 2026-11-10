@@ -1,7 +1,5 @@
 # 5 - Build the device-request workflow
 
-**Estimated time:** 50 minutes
-
 The agent gathers and interprets the request. A workflow executes the repeatable transaction: read one selected SharePoint item, send an email, and return its model to the agent.
 
 > [!IMPORTANT]
@@ -151,6 +149,4 @@ These inputs are the contract between the skill and workflow. The selected optio
 > [!IMPORTANT]
 > Do not replace an authenticated requester identity with a name guessed by the model. The supplied skill uses `User.DisplayName`, with `User.Email` or `User.PrincipalName` as fallbacks. If none is available, stop and ask the instructor to check authentication before testing a submission.
 
-**Verify:** The published workflow has three correctly named text inputs, a real SharePoint item lookup, an email action targeting your lab mailbox, and the **ModelValue** return value. The agent has the workflow tool and v1.0.4 skill.
-
-Select **Next** to test, or open [Test the solution end to end](./06-Test-End-To-End.md).
+Select **Next** to test.
