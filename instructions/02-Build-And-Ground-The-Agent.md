@@ -2,9 +2,7 @@
 
 # 2 - Build and ground the agent
 
-**Estimated time:** 40 minutes
-
-You will create **Contoso IT Concierge**, define its boundaries, and connect public support sites, your assigned SharePoint site, and an uploaded document.
+Next, you'll create the **Contoso IT Concierge** agent, define its boundaries, and connect public support sites, your assigned SharePoint site, and an uploaded document.
 
 ## Create the agent
 
@@ -73,7 +71,9 @@ You will create **Contoso IT Concierge**, define its boundaries, and connect pub
 
 1. Select the **+** next to **Knowledge** again.
 1. Select **SharePoint**.
-1. Paste the **Contoso IT SharePoint site URL** from **Resources**. Do not copy the sample tenant shown in screenshots.
+1. Enter the assigned tenant root site URL then select **Add**:
+
+    +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++
 1. Select **Add**.
 1. Select **Add to Agent**.
 
@@ -110,7 +110,7 @@ You will create **Contoso IT Concierge**, define its boundaries, and connect pub
     ```
 
 1. Select **Done** to apply the greeting.
-1. Close settings and save any pending changes.
+1. Close settings and **save** any pending changes.
 
 ## Establish a test baseline
 

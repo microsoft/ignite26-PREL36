@@ -1,19 +1,33 @@
 # 1 - Create a solution
 
-**Estimated time:** 15 minutes
+A Power Platform solution groups related components so they can move together between environments. You'll work in an **unmanaged** solution for development. A **publisher** identifies component ownership and supplies a prefix.
 
-A Power Platform solution groups related components so they can move together between environments. You will work in an **unmanaged** solution for development. A **publisher** identifies component ownership and supplies a prefix.
+## Log in
+
+1. Open Microsoft Edge Browser (the Internet icon on the VM desktop) in your virtual machine and go to +++https://copilotstudio.microsoft.com+++.
+1. Sign in with the username and TAP from the **Resources** tab.
+1. Select the environment dropdown in the bottom left-hand corner and choose the **DevOne** environment.
+
+    ![Select the assigned Power Platform environment](./assets/01.1-select-environment.png)
 
 ## Create the publisher
 
-1. Confirm that Copilot Studio is using your assigned lab environment.
-1. From the left navigation, select the **ellipsis** near the bottom, then select **Solutions** under **Explore**.
+1. Open a new tab and go to +++https://make.powerapps.com+++.
+1. Select **Get started** if you see this **Welcome to Power Apps** screen.
 
-    ![Open Solutions in Copilot Studio](./assets/03-select-solutions-in-copilot-studio-navigation.png)
+    ![Select the assigned Power Platform environment](./assets/01.2-get-started.png)
+
+1. Select the **Environment** picker in the **upper right-hand corner** and switch to the **Dev One** environment.
+
+    ![Select the assigned Power Platform environment](./assets/01.3-switch-environment.png)
+
+1. Select the **Solutions** tab in the **left navigation**.
+
+    ![Open Solutions in Copilot Studio](./assets/01.2-select-solution-tab.png)
 
 1. In **Solution Explorer**, select **+ New solution**.
 
-    ![Create a new solution](./assets/03-select-new-solution-in-solution-explorer.png)
+    ![Create a new solution](./assets/01.4-new-solution.png)
 
 1. In the **New solution** pane, select **+ New publisher**.
 
@@ -32,10 +46,7 @@ A Power Platform solution groups related components so they can move together be
     ![Configure the custom publisher](./assets/03-configure-the-custom-solution-publisher-properties.png)
 
 1. Select **Save**.
-1. Confirm that **Contoso Solutions** is selected in the **New solution** pane.
-
-> [!NOTE]
-> If your assigned environment already contains the publisher, reuse it rather than creating a duplicate. Do not modify a publisher owned by another lab participant.
+1. Confirm that **Contoso Solutions** is selected in the **Publisher** dropdown in **New solution** pane.
 
 ## Create and prefer the solution
 
@@ -59,6 +70,18 @@ A Power Platform solution groups related components so they can move together be
 
     ![Verify the current preferred solution](./assets/03-preferred-solution-now-the-newly-created-solution.png)
 
-**Verify:** Your custom solution exists and is preferred before you create the agent. If you cannot create solutions, ask your instructor to check your assigned environment role.
+1. Select the **Back icon** to navigate back to the **Solutions** screen.
+
+    ![Go back](./assets/01.8-back.png)
+
+1. Select the **Set preferred solution** button.
+
+    ![Go back](./assets/01.9-set-preferred.png)
+
+1. Confirm that the **Contoso IT Concierge** solution shows in the dropdown then select **Apply**.
+
+    ![Go back](./assets/1.10-apply.png)
+
+1. Close out of the solutions tab and go back to the tab with Copilot Studio.
 
 Select **Next** to build the agent, or open [Build and ground the agent](./02-Build-And-Ground-The-Agent.md).

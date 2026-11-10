@@ -1,10 +1,6 @@
 # 4 - Add and refine skills
 
-**Estimated time:** 40 minutes
-
-A skill packages a name, description, and focused procedure in `SKILL.md`. The harness uses the description to choose the skill; its instructions define what to collect, which tools to call, and when to stop.
-
-You will compare two versions of the device guidance skill and add a troubleshooting skill. The four-hour path skips the intermediate v1.0.2 upload but preserves the schema-mapping lesson.
+Now you'll see how to extend and refine your agent with skills.
 
 ## Add the initial device skill
 
@@ -67,21 +63,6 @@ You will compare two versions of the device guidance skill and add a troubleshoo
     If needed, [download the refined SKILL.md](./downloads/skills/device-guidance-v1-0-3/SKILL.md).
 
     ![Replace the installed device guidance skill](./assets/06-replace-the-existing-device-guidance-skill.png)
-
-1. Review the explicit internal column mappings and the new step for additional requirements.
-
-    | Display name | Expected internal name in the prepared list |
-    | --- | --- |
-    | Status | `field_1` |
-    | Manufacturer | `field_2` |
-    | Model | `field_3` |
-    | Asset Type, called Device Type in the skill | `field_4` |
-    | Color | `field_5` |
-
-    The exact mappings belong to this sample list, not every SharePoint list. To verify a column, open **Settings** > **List settings**, select the column, and inspect the `Field` parameter in the URL. For example, `field%5F4` decodes to `field_4`.
-
-    > [!IMPORTANT]
-    > If your list uses different internal names, ask your instructor to correct the prepared list or the local skill mappings before continuing. Do not keep retrying an invalid filter.
 
 1. In the agent instructions, update the device skill reference:
 

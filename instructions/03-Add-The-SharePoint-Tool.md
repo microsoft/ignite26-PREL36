@@ -1,8 +1,6 @@
 # 3 - Add the SharePoint tool
 
-**Estimated time:** 20 minutes
-
-Knowledge explains policy. A connector tool retrieves current records. You will add one read operation, **SharePoint - Get items**, and pin it to your assigned **EmployeeAssets** list.
+Knowledge grounds and explains. A connector tool retrieves and acts. You will add one read operation, **SharePoint - Get items**, and pin it to your assigned **EmployeeAssets** list.
 
 ## Add the connector
 
@@ -62,6 +60,4 @@ Knowledge explains policy. A connector tool retrieves current records. You will 
 1. If the tool returns an access or configuration error, inspect the connection, fixed site, and fixed list before proceeding. A knowledge-source answer is not a successful tool test.
 1. Return to **Build**.
 
-**Verify:** **Get Employee Assets** retrieves records from the intended list. The agent cannot choose a different site or list through these fixed inputs.
-
-Take the first **10-minute break**. Then select **Next**, or open [Add and refine skills](./04-Add-And-Refine-Skills.md).
+Select **Next** to add skills.

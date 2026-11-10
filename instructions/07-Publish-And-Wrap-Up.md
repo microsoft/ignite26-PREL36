@@ -1,7 +1,5 @@
 # 7 - Publish and plan for operation
 
-**Estimated time:** 15 minutes
-
 Publishing makes a saved version available through a channel. Sharing and tenant policies control who can discover and install it. Publishing does not change the agent's harness.
 
 ## Publish the agent and configure its listing
@@ -81,6 +79,4 @@ For current terms, consult [GitHub Copilot harness billing](https://learn.micros
 
 You built a solution-backed agent, grounded it in approved knowledge, connected live data and reusable skills, executed a confirmed request through a workflow, checked cancellation, and published to an employee channel.
 
-Continue with [Agent Academy Recruit NextGen](https://microsoft.github.io/agent-academy/recruit-nextgen/) for the full conceptual lessons, additional skill iterations, and the course's separate badge requirements. PREL36 completion does not automatically grant the Academy badge.
-
-In Skillable, select **Next**, then **Submit** when you are ready to finish the lab. On GitHub, return to the [lab overview](./README.md).
+Select **Next**, then **Submit** when you are ready to finish the lab.

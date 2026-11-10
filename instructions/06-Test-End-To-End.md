@@ -1,7 +1,5 @@
 # 6 - Test the solution end to end
 
-**Estimated time:** 20 minutes
-
 Saving, publishing, and getting a plausible chat response do not prove the transaction is correct. Check the activity trace, workflow run, selected list item, and actual mailbox.
 
 ## Check skill readiness in each test conversation
@@ -120,4 +118,4 @@ Saving, publishing, and getting a plausible chat response do not prove the trans
 
 If a test fails, return to the relevant configuration section and correct it before declaring completion. Do not repeatedly resend a confirmed request while waiting for mail; inspect **Activity** first to avoid duplicates.
 
-Select **Next** to publish, or open [Publish and plan for operation](./07-Publish-And-Wrap-Up.md).
+Select **Next** to publish.
