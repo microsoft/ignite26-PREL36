@@ -30,7 +30,8 @@ Do not pre-create the learner agent, solution, skills, or workflow in the baseli
 
 1. Set the lab title to **PREL36: Build your first agent in Copilot Studio** for Microsoft Ignite 2026.
 1. Expose these resource values clearly: VM credentials, Microsoft 365 credentials or Temporary Access Pass, assigned Power Platform environment name, Contoso IT SharePoint site URL, and lab email address.
-1. Map the supplied resource names to the actual Skillable profile. No `AITour27M365E7` or guessed Ignite credential ID is embedded here.
+1. Map the `WWLM365E7` cloud credential to the learner's Microsoft 365 tenant. The learner SharePoint URL is `https://@lab.CloudCredential(WWLM365E7).TenantPrefix.sharepoint.com/sites/ContosoIT`; verify that Skillable expands it to the assigned site's actual URL. If the profile uses a different credential name or site path, update the learner URL and the Skillable conventions in `instructions/README.md` together before delivery.
+1. Confirm that the assigned Power Platform environment is named **Dev One**, as shown in the learner instructions.
 1. Import learner pages in this exact order:
 
     ```text
@@ -131,7 +132,7 @@ Source: [Agent Academy Recruit NextGen](https://github.com/microsoft/agent-acade
 | 09 Licensing | Condense to usage principles and authoritative references; no pricing exercise |
 | Badge submission | Link to the full Academy path; do not award a badge for this condensed lab |
 
-Retain the [MIT license copy](../instructions/assets/LICENSE-Agent-Academy) with the reused screenshots, documents, workbook, images, and skill files. Source asset bytes are preserved; event screenshots still need to be verified against the actual tenant.
+Retain the [MIT license copy](../instructions/assets/LICENSE-Agent-Academy) with the reused screenshots, documents, workbook, images, and skill files. The preferred-solution, agent creation, and agent-settings screenshots have been replaced with event screenshots supplied during lab review, and a screenshot of the Work IQ and SharePoint knowledge dialog has been added. Remaining Academy assets are unchanged; verify all screenshots against the actual tenant before delivery.
 
 ## Delivery rehearsal checklist
 
