@@ -38,7 +38,7 @@ Text surrounded by `+++` becomes clickable autotype text in Skillable. Multiline
 > [!IMPORTANT]
 > Wait for autotype to finish before interacting with the virtual machine. Do not paste VM credentials into Microsoft 365 sign-in fields. Use the appropriate credentials from **Resources**.
 
-No event-specific `@lab.CloudCredential(...)` or `@lab.Variable(...)` identifier is assumed in this version. The delivery team must map resource values to its actual Skillable profile before enabling additional dynamic autotype fields. `@lab.Title` in the introduction resolves to the hosted lab title.
+The SharePoint URL uses `@lab.CloudCredential(WWLM365E7).TenantPrefix` to insert the assigned tenant prefix in Skillable. The delivery team must map the `WWLM365E7` credential to the learner's Microsoft 365 tenant and verify that the URL resolves before delivery. Outside Skillable, use the actual **Contoso IT** site URL from **Resources** instead of the unresolved token. `@lab.Title` in the introduction resolves to the hosted lab title.
 
 ## Lab resources
 

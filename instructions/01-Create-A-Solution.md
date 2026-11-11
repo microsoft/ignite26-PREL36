@@ -6,7 +6,7 @@ A Power Platform solution groups related components so they can move together be
 
 1. Open Microsoft Edge Browser (the Internet icon on the VM desktop) in your virtual machine and go to +++https://copilotstudio.microsoft.com+++.
 1. Sign in with the username and TAP from the **Resources** tab.
-1. Select the environment dropdown in the bottom left-hand corner and choose the **DevOne** environment.
+1. Select the environment dropdown in the bottom left-hand corner and choose the **Dev One** environment.
 
     ![Select the assigned Power Platform environment](./assets/01.1-select-environment.png)
 
@@ -70,18 +70,8 @@ A Power Platform solution groups related components so they can move together be
 
     ![Verify the current preferred solution](./assets/03-preferred-solution-now-the-newly-created-solution.png)
 
-1. Select the **Back icon** to navigate back to the **Solutions** screen.
+    If a different solution is shown, select **Set preferred solution**, choose **Contoso IT Concierge Agent**, and select **Apply**. Skip this action if the correct solution is already preferred.
 
-    ![Go back](./assets/01.8-back.png)
+1. Close the Power Apps tab and return to the tab with Copilot Studio.
 
-1. Select the **Set preferred solution** button.
-
-    ![Go back](./assets/01.9-set-preferred.png)
-
-1. Confirm that the **Contoso IT Concierge** solution shows in the dropdown then select **Apply**.
-
-    ![Go back](./assets/1.10-apply.png)
-
-1. Close out of the solutions tab and go back to the tab with Copilot Studio.
-
-Select **Next** to build the agent, or open [Build and ground the agent](./02-Build-And-Ground-The-Agent.md).
+Select **Next** to build the agent.

@@ -71,13 +71,17 @@ Next, you'll create the **Contoso IT Concierge** agent, define its boundaries, a
 
 1. Select the **+** next to **Knowledge** again.
 1. Select **SharePoint**.
-1. Enter the assigned tenant root site URL then select **Add**:
+1. Enter the assigned **Contoso IT** site URL:
 
-    +++https://@lab.CloudCredential(AITour27M365E7).TenantPrefix.sharepoint.com/sites/CaldovaSupplierOps+++
+    +++https://@lab.CloudCredential(WWLM365E7).TenantPrefix.sharepoint.com/sites/ContosoIT+++
 1. Select **Add**.
-1. Select **Add to Agent**.
+1. Select **Add to agent**.
 
     ![Add the assigned Contoso IT SharePoint site](./assets/04-add-sharepoint-site-to-the-agent.png)
+
+1. If the **Understanding Work IQ and SharePoint Knowledge** dialog appears, review it and select **Got it** to continue.
+
+    ![Dismiss the Work IQ and SharePoint knowledge explanation](./assets/04-understanding-work-iq-and-sharepoint-knowledge.png)
 
 1. Select the **+** next to **Knowledge** again.
 1. Select **Click to upload**.
@@ -96,7 +100,7 @@ Next, you'll create the **Contoso IT Concierge** agent, define its boundaries, a
 
 ## Review settings and greeting
 
-1. Select the **ellipsis** in the upper-right corner of the agent.
+1. Select the **ellipsis (...)** in the upper-right corner of the agent.
 1. Select **Settings**.
 1. In **Agent details**, verify that **Solution** is **Contoso IT Concierge Agent**.
 
@@ -141,4 +145,4 @@ Next, you'll create the **Contoso IT Concierge** agent, define its boundaries, a
 
 **Verify:** The agent has clear boundaries, unrestricted web search is off, all four knowledge sources are connected, and both baseline prompts produce supported answers. Responses do not have to match the screenshot wording.
 
-Select **Next** to add live data, or open [Add the SharePoint tool](./03-Add-The-SharePoint-Tool.md).
+Select **Next** to add live data.

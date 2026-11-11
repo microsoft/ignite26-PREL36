@@ -127,7 +127,7 @@ These inputs are the contract between the skill and workflow. The selected optio
 
 1. Confirm the workflow appears in **Tools**.
 1. Open **device-guidance-v1-0-3** under **Skills**.
-1. Select its **ellipsis**, then **Replace**.
+1. Select its **ellipsis (...)**, then **Replace**.
 1. Upload:
 
     ```text

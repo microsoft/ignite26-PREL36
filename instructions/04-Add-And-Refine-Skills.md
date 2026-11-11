@@ -53,7 +53,7 @@ Now you'll see how to extend and refine your agent with skills.
 ## Replace it with the refined version
 
 1. Return to **Build** and open **device-guidance-v1-0-1**.
-1. Select the skill's **ellipsis**, then **Replace**.
+1. Select the skill's **ellipsis (...)**, then **Replace**.
 1. Upload:
 
     ```text
