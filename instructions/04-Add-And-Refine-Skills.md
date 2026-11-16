@@ -9,7 +9,7 @@ Now you'll see how to extend and refine your agent with skills.
 1. Upload:
 
     ```text
-    D:\LabFiles\PREL36\skills\device-guidance-v1-0-1\SKILL.md
+    D:\LabFiles\skills\device-guidance-v1-0-1.zip
     ```
 
     If needed, [download the initial SKILL.md](./downloads/skills/device-guidance-v1-0-1/SKILL.md). Keep the filename `SKILL.md` and its parent folder so different versions do not overwrite one another.
@@ -57,7 +57,7 @@ Now you'll see how to extend and refine your agent with skills.
 1. Upload:
 
     ```text
-    D:\LabFiles\PREL36\skills\device-guidance-v1-0-3\SKILL.md
+    D:\LabFiles\skills\device-guidance-v1-0-3.zip
     ```
 
     If needed, [download the refined SKILL.md](./downloads/skills/device-guidance-v1-0-3/SKILL.md).
@@ -100,12 +100,12 @@ Now you'll see how to extend and refine your agent with skills.
 1. Upload:
 
     ```text
-    D:\LabFiles\PREL36\skills\it-troubleshooting-procedure\SKILL.md
+    D:\LabFiles\skills\it-troubleshooting-procedure.zip
     ```
 
     If needed, [download the troubleshooting SKILL.md](./downloads/skills/it-troubleshooting-procedure/SKILL.md).
 
-1. Review the uploaded skill. Its internal name is **troubleshooting-procedure**, even though its download folder is named **it-troubleshooting-procedure**.
+1. Review the uploaded skill. Its internal name is **troubleshooting-procedure**, even though its ZIP archive is named **it-troubleshooting-procedure.zip**.
 
     ![Review the troubleshooting skill](./assets/06-review-the-it-troubleshooting-skill-instructions.png)
 
