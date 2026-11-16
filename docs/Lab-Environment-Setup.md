@@ -45,6 +45,7 @@ Do not pre-create the learner agent, solution, skills, or workflow in the baseli
     instructions/06-Test-End-To-End.md
     instructions/07-Review-And-Evaluate.md
     instructions/08-Publish-And-Wrap-Up.md
+    instructions/09-Bonus-Labs.md
     ```
 
 1. Make the relative `assets/` and `downloads/` folders available to the hosted instructions, or update the platform's asset mappings without changing filenames.
@@ -130,6 +131,24 @@ The cases do not authorize a request submission. Evaluation still executes real 
 
 The 30-minute planning block includes one evaluation run and results review. A rerun is required after fixing an observed failure; allow extra time rather than publishing a failed or incomplete evaluation. No live PREL36 evaluation run or successful CSV import is claimed by this package.
 
+## Prepare optional early-finisher exercises
+
+Section 9 is optional and outside the 240-minute agenda. Learners can skip it or choose individual sandbox, memory, Work IQ, or App exercises after completing the core path. Do not make bonus completion a requirement for final submission.
+
+The [analysis CSV](../instructions/downloads/bonus/EmployeeAssets-Analysis.csv) is an eight-column projection of the supplied 700-row asset export. Serial numbers and employee assignment IDs are omitted; all remaining values and row order are preserved. Learners download it from GitHub during the exercise, so **no VM image change is required**. Verify that the published repository download is accessible from the learner VM before delivery.
+
+This is not a replacement for the four-device SharePoint catalog. Do not import it into EmployeeAssets or change the evaluation baseline to use its statuses. The bonus uses a fixed as-of date of 2026-11-01: 217 warranties ended before that date and 43 end from 2026-11-01 through 2027-01-30 inclusive, across all statuses. Verify Python execution, both PNG charts, the summary CSV, the returned Python code, and the four-slide PowerPoint file during rehearsal.
+
+Confirm native file attachment/output support and sufficient Copilot Credits. The Microsoft Copilot harness supplies file-analysis skills and Python packages; this exercise does not require a VM Python installation or a separately configured Code Interpreter tool. Rehearse generated-file downloads and opening the deck in an approved viewer. Do not treat static calculations as evidence that the agent generated files.
+
+For Memory, verify the toggle and user memory-management link work for the assigned account in a one-to-one Preview conversation. Test storage, cross-chat application, targeted deletion, and restoration; do not use a Teams channel/group chat or store current inventory facts.
+
+For Work IQ, confirm tenant access, assigned-account connections, **People** and **Calendar** workloads, and permission to create a personal event on the learner's own lab calendar. No second user is required: profile lookup uses the learner's own account, with an instructor-approved second lab account as an extension. Work IQ writes are enabled by default subject to policy; rehearse exact preview/confirmation, no attendees or email, one event created, and deletion of that test event in Outlook. Do not enable extra workloads or change tenant policy just to complete the bonus.
+
+Learners temporarily extend the agent's scope instructions because the core IT agent is intentionally constrained. Keep the core inventory tool, skill, and workflow in place. Test only isolated learner agents, do not republish bonus changes, and restore original instructions, memory settings, and Work IQ configuration afterward. These feature paths are based on current Microsoft Learn guidance; no live bonus tenant rehearsal is claimed by this package.
+
+The App exploration is separate from the agent exercises and includes three starter prompts plus refinement ideas. Verify the **App (Preview)** tile or **Apps (Preview)** > **New app** is available for the assigned account; skip it if disabled rather than changing tenant settings. App creation uses a personal environment and is not automatically part of the core agent's solution. Test browser-side CSV upload in the running preview, not just an authoring attachment, and check all 700 rows are used. The warranty planner's default non-retired expired queue is 205 assets; 12 of the 217 all-status expired assets are retired. For the intake idea, use fictional browser-local drafts only. Inspect **Data** and **Connections** and leave these prototypes unpublished and unshared, without creating organizational data sources or altering the core workflow.
+
 ## Source mapping and four-hour adaptations
 
 Source: [Agent Academy Recruit NextGen](https://github.com/microsoft/agent-academy/tree/b9a562f2505c4dd31c356dca0f01f45832f5707f/docs/recruit-nextgen), revision `b9a562f2505c4dd31c356dca0f01f45832f5707f`.
@@ -168,3 +187,4 @@ Retain the [MIT license copy](../instructions/assets/LICENSE-Agent-Academy) with
 - [ ] Verify publication and installation policies, and run an employee-channel live-data test.
 - [ ] Confirm local downloads, screenshots, autotype, navigation, and final Submit behavior in Skillable.
 - [ ] Rehearse the 220-minute learner path plus two 10-minute breaks; adjust the delivery estimate if needed.
+- [ ] If offering section 9, rehearse repository-only CSV download, native Python/chart/deck outputs, memory storage across chats and deletion, Work IQ profile/calendar actions, optional App prompts/CSV upload, and cleanup without publishing.

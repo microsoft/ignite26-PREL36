@@ -24,6 +24,10 @@ The schedule includes **220 minutes of instruction and hands-on work plus two 10
 
 The evaluation block includes one run. If it reveals a problem, correct it and rerun before publishing rather than skipping a failed check to meet the schedule. Rehearse this revised pacing in the assigned tenant; evaluation runtime can vary.
 
+## Optional early-finisher activities
+
+After publishing, [section 9: Bonus labs](./09-Bonus-Labs.md) offers four independent exercises: analyze an asset CSV with Python and generate charts/a PowerPoint deck, save and reuse a response-format memory, add Work IQ for people and calendar tasks, or try the **App (Preview)** capability with sample prompts for an asset dashboard, warranty planner, or support-intake prototype. Choose what fits your remaining time; these activities are outside the four-hour agenda and are not required for completion. The bonus CSV is downloaded from the repository, not preinstalled in the VM.
+
 ## Learning outcomes
 
 By the end of the lab, you will be able to:
@@ -48,7 +52,7 @@ The SharePoint URL uses `@lab.CloudCredential(WWLM365E7).TenantPrefix` to insert
 
 The four-hour path assumes the lab account, authoring environment, **Contoso IT** SharePoint site, **EmployeeAssets** list, and Outlook mailbox are prepared before the session. Attendees do not create subscriptions, buy credits, or administer tenant policies.
 
-The [downloads folder](./downloads/README.md) contains the original sample documents and skills plus the Contoso evaluation CSV. The hosted VM should expose the original sample files under `D:\LabFiles\PREL36`. In section 7, download the evaluation CSV from the repository to the VM's **Downloads** folder; it does not need to be included in the VM image. If another VM file is missing, use the corresponding download link in the instructions, or ask your instructor.
+The [downloads folder](./downloads/README.md) contains the original sample documents and skills plus the evaluation and optional asset-analysis CSVs. The hosted VM should expose the original sample files under `D:\LabFiles\PREL36`. Download the evaluation CSV in section 7 and, if needed, the bonus CSV in section 9 from the repository to the VM's **Downloads** folder; neither requires a VM image update. If another VM file is missing, use the corresponding download link in the instructions, or ask your instructor.
 
 > [!NOTE]
 > Screenshots include Agent Academy assets, event captures, and cropped evaluation controls from LAB665. Sample tenant names, account names, and environments can differ from yours. Use the resources assigned to you, not values visible in screenshots.
