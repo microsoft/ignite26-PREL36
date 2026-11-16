@@ -60,4 +60,4 @@ Knowledge grounds and explains. A connector tool retrieves and acts. You will ad
 1. If the tool returns an access or configuration error, inspect the connection, fixed site, and fixed list before proceeding. A knowledge-source answer is not a successful tool test.
 1. Return to **Build**.
 
-Select **Next** to add skills.
+Take the first **10-minute break**. Then select **Next** to add skills.

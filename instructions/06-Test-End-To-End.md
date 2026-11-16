@@ -118,4 +118,4 @@ Saving, publishing, and getting a plausible chat response do not prove the trans
 
 If a test fails, return to the relevant configuration section and correct it before declaring completion. Do not repeatedly resend a confirmed request while waiting for mail; inspect **Activity** first to avoid duplicates.
 
-Select **Next** to publish.
+Select **Next**, or open [Review, improve, and evaluate the agent](./07-Review-And-Evaluate.md), before publishing.

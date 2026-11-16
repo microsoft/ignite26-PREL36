@@ -2,7 +2,7 @@
 
 These are the attendee instructions for the four-hour Microsoft Ignite 2026 pre-day lab. You will build **Contoso IT Concierge**, an IT support agent powered by the **GitHub Copilot harness** in Microsoft Copilot Studio.
 
-The agent answers grounded IT questions, retrieves current devices from SharePoint, follows reusable skills, and calls a workflow to email a confirmed device request. Sending a request is not approval, procurement, or a stock reservation.
+The agent answers grounded IT questions, retrieves current devices from SharePoint, follows reusable skills, and calls a workflow to email a confirmed device request. Before publishing, you'll review its configuration, improve its device-selection rules, and run a reusable evaluation. Sending a request is not approval, procurement, or a stock reservation.
 
 ## Four-hour agenda
 
@@ -10,16 +10,19 @@ The schedule includes **220 minutes of instruction and hands-on work plus two 10
 
 | Elapsed time | Section | Minutes |
 | --- | --- | --- |
-| 00:00-00:20 | [Introduction, sign-in, and agent fundamentals](./00-Introduction.md) | 20 |
-| 00:20-00:35 | [Create a solution](./01-Create-A-Solution.md) | 15 |
-| 00:35-01:15 | [Build and ground the agent](./02-Build-And-Ground-The-Agent.md) | 40 |
-| 01:15-01:35 | [Add the SharePoint tool](./03-Add-The-SharePoint-Tool.md) | 20 |
-| 01:35-01:45 | Break | 10 |
-| 01:45-02:25 | [Add and refine skills](./04-Add-And-Refine-Skills.md) | 40 |
-| 02:25-02:35 | Break | 10 |
-| 02:35-03:25 | [Build the device-request workflow](./05-Build-The-Device-Request-Workflow.md) | 50 |
-| 03:25-03:45 | [Test the solution end to end](./06-Test-End-To-End.md) | 20 |
-| 03:45-04:00 | [Publish and plan for operation](./07-Publish-And-Wrap-Up.md) | 15 |
+| 00:00-00:15 | [Introduction, sign-in, and agent fundamentals](./00-Introduction.md) | 15 |
+| 00:15-00:25 | [Create a solution](./01-Create-A-Solution.md) | 10 |
+| 00:25-01:00 | [Build and ground the agent](./02-Build-And-Ground-The-Agent.md) | 35 |
+| 01:00-01:15 | [Add the SharePoint tool](./03-Add-The-SharePoint-Tool.md) | 15 |
+| 01:15-01:25 | Break | 10 |
+| 01:25-01:55 | [Add and refine skills](./04-Add-And-Refine-Skills.md) | 30 |
+| 01:55-02:05 | Break | 10 |
+| 02:05-02:50 | [Build the device-request workflow](./05-Build-The-Device-Request-Workflow.md) | 45 |
+| 02:50-03:10 | [Test the solution end to end](./06-Test-End-To-End.md) | 20 |
+| 03:10-03:40 | [Review, improve, and evaluate the agent](./07-Review-And-Evaluate.md) | 30 |
+| 03:40-04:00 | [Publish and plan for operation](./08-Publish-And-Wrap-Up.md) | 20 |
+
+The evaluation block includes one run. If it reveals a problem, correct it and rerun before publishing rather than skipping a failed check to meet the schedule. Rehearse this revised pacing in the assigned tenant; evaluation runtime can vary.
 
 ## Learning outcomes
 
@@ -27,6 +30,7 @@ By the end of the lab, you will be able to:
 
 - Build a scoped, instruction-driven agent and ground its answers in approved knowledge.
 - Connect a live SharePoint tool and reusable skills that guide reliable device selection.
+- Improve device-selection rules and evaluate a reusable set of support, inventory, and boundary conversations before publishing.
 - Call a workflow after confirmation, verify successful and cancelled requests, and publish the agent to an employee channel.
 
 ## Skillable conventions
@@ -44,10 +48,10 @@ The SharePoint URL uses `@lab.CloudCredential(WWLM365E7).TenantPrefix` to insert
 
 The four-hour path assumes the lab account, authoring environment, **Contoso IT** SharePoint site, **EmployeeAssets** list, and Outlook mailbox are prepared before the session. Attendees do not create subscriptions, buy credits, or administer tenant policies.
 
-The [downloads folder](./downloads/README.md) contains the original sample documents and skills. The hosted VM should expose the same folder structure under `D:\LabFiles\PREL36`. If a VM file is missing, use the corresponding download link in the instructions, or ask your instructor.
+The [downloads folder](./downloads/README.md) contains the original sample documents and skills plus the Contoso evaluation CSV. The hosted VM should expose the original sample files under `D:\LabFiles\PREL36`. In section 7, download the evaluation CSV from the repository to the VM's **Downloads** folder; it does not need to be included in the VM image. If another VM file is missing, use the corresponding download link in the instructions, or ask your instructor.
 
 > [!NOTE]
-> Screenshots are reused from Agent Academy. Sample tenant names, account names, and environments can differ from yours. Use the resources assigned to you, not values visible in screenshots.
+> Screenshots include Agent Academy assets, event captures, and cropped evaluation controls from LAB665. Sample tenant names, account names, and environments can differ from yours. Use the resources assigned to you, not values visible in screenshots.
 
 ## Delivery preparation
 

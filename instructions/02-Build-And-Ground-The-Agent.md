@@ -7,9 +7,9 @@ Next, you'll create the **Contoso IT Concierge** agent, define its boundaries, a
 ## Create the agent
 
 1. Return to **Home** in Copilot Studio.
-1. Select **Agent (GitHub Copilot)**.
+1. Select **Agent**.
 
-    ![Select the GitHub Copilot harness agent tile](./assets/04-select-agent-tile.png)
+    ![Select the Copilot harness agent tile](./assets/04-select-agent-tile.png)
 
 1. Replace the agent name with +++Contoso IT Concierge+++.
 
@@ -48,6 +48,10 @@ Next, you'll create the **Contoso IT Concierge** agent, define its boundaries, a
     ```
 
     ![Enter the agent instructions](./assets/04-paste-the-agent-instructions-prompt.png)
+
+1. On the right-hand side, select the **X** next to **Search all websites** under **Knowledge** and the **X** next to **Work IQ** under **Tools**. Remove this default web knowledge and Work IQ tool so the lab uses the knowledge sources and tools we configure.
+
+    ![Highlighted X controls for removing Search all websites under Knowledge and Work IQ under Tools](./assets/01.5-remove-all-websites.png)
 
 1. Select **Save**.
 

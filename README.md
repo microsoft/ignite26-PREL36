@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD041 -->
 <a name="start-building"></a>
 
 <p align="center">
@@ -5,11 +6,13 @@
 </p>
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
+<!-- markdownlint-enable MD041 -->
 
 ## 🔥PREL36: Build your first agent in Copilot Studio
+
 ### Session description
 
-Build Contoso IT Concierge in this four-hour, hands-on pre-day lab using the GitHub Copilot harness in Microsoft Copilot Studio. Ground the agent in approved knowledge, connect live SharePoint data and reusable skills, automate confirmed device requests with a workflow, and publish it to an employee channel.
+Build Contoso IT Concierge in this four-hour, hands-on pre-day lab using the GitHub Copilot harness in Microsoft Copilot Studio. Ground the agent in approved knowledge, connect live SharePoint data and reusable skills, automate confirmed device requests with a workflow, review and evaluate its behavior, and publish it to an employee channel.
 
 ### 🚀 Getting started
 
@@ -35,6 +38,7 @@ By the end of this session, you will be able to:
 
 - Build a scoped, instruction-driven agent and ground its answers in approved knowledge.
 - Connect live SharePoint data and reusable skills for reliable device guidance.
+- Review and improve the agent, then run a reusable evaluation before publishing.
 - Execute confirmed requests through a workflow, verify cancellation, and publish to an employee channel.
 
 ### 💻 Technologies used
@@ -49,7 +53,7 @@ By the end of this session, you will be able to:
 Pick your next step based on your learning style:
 
 | Resource | What you'll get |
-|----------|-----------------|
+| --- | --- |
 | **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
 | **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
 | **[Microsoft Learn](https://aka.ms/ignite26-learn)** | Official documentation and guided learning paths on these topics |

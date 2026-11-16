@@ -16,11 +16,12 @@ Before delivery, rehearse the full learner path in a fresh assigned account, ver
 | Microsoft 365 account | SharePoint, Outlook mailbox, and employee channel access |
 | Power Platform environment | Dataverse available; learner can create solutions, publishers, agents, connector connections, and workflows |
 | Copilot Studio | GitHub Copilot harness authoring surface enabled and available in the assigned environment |
+| Evaluation | Evaluate tab and Conversations CSV import available; assigned-account tool connections and credits support a seven-conversation run |
 | Capacity and policies | Available Copilot Credits; required authoring and publishing permissions; SharePoint and Office 365 Outlook connectors permitted |
 | SharePoint site | Contoso IT site using the IT help desk template, with the support content used by the learner tests |
 | SharePoint list | EmployeeAssets populated from the original workbook with the schema contract below |
 | Employee channel | Teams + Microsoft 365 channel can be added; learner can install and test in at least Teams |
-| Lab files | Contents of `instructions/downloads/` staged under `D:\LabFiles\PREL36` |
+| Lab files | Existing knowledge, skill, and setup files staged under `D:\LabFiles\PREL36`; evaluation CSV downloaded from the repository during section 7, with no VM image update required |
 
 Use isolated learner environments and learner-owned sites/lists, or otherwise prevent participants from editing each other's solutions and test records. Confirm both the template support content, including Contoso VPN guidance, and the supplied Wi-Fi document are appropriate for the event tenant.
 
@@ -42,13 +43,15 @@ Do not pre-create the learner agent, solution, skills, or workflow in the baseli
     instructions/04-Add-And-Refine-Skills.md
     instructions/05-Build-The-Device-Request-Workflow.md
     instructions/06-Test-End-To-End.md
-    instructions/07-Publish-And-Wrap-Up.md
+    instructions/07-Review-And-Evaluate.md
+    instructions/08-Publish-And-Wrap-Up.md
     ```
 
 1. Make the relative `assets/` and `downloads/` folders available to the hosted instructions, or update the platform's asset mappings without changing filenames.
 1. Verify the actual Skillable renderer supports the used headings, tables, numbered lists, fenced text blocks, `> [!NOTE]`/`> [!IMPORTANT]` callouts, `+++` autotype spans, and `@lab.Title`. The package follows LAB665's Markdown conventions; it does not use VitePress frontmatter, Vue components, or `:::` containers.
 1. Test autotype with URLs and short field values. Multiline text blocks are deliberately copy/paste, not unverified dynamic credential expansions.
-1. Stage all downloads and verify upload behavior for standalone `SKILL.md` files.
+1. Preserve the staged knowledge, skill, and setup files and verify upload behavior for standalone `SKILL.md` files.
+1. Verify learners can open the evaluation CSV's GitHub repository page from the VM, select **Download raw file**, save it to **Downloads**, and upload it in Copilot Studio. Do not stage the evaluation CSV in the VM image.
 
 ## Prepare the Contoso IT site
 
@@ -115,6 +118,18 @@ Verify the prepared catalog has enough available laptop options for the sample t
 
 The stock final skill says the manager will review the request. In this event, the learner's own mailbox simulates that manager. The learner instructions and published listing make this explicit. There is no approval action, purchase, or reservation in the workflow.
 
+## Prepare the pre-publish evaluation
+
+The new section 7 follows the manual end-to-end tests and precedes publishing. It uses a human readiness finding: the supplied device skill does not explicitly exclude reserved stock or distinguish requested RAM from catalog-verified RAM. Learners inspect actual Review findings if present, add two device-request instruction bullets, and evaluate the saved draft. Do not manufacture a Review checker error or promise that the initial desktop prompt must fail.
+
+The [baseline CSV](../instructions/downloads/evaluation/Contoso-IT-Concierge-Baseline.csv) uses the Conversations schema `conversationNumber,question,response`, with seven conversations and nine question/response rows. Rehearse the import with **Conversations** selected before uploading; verify both follow-up turns remain grouped with their first questions.
+
+The expected evidence assumes the original catalog: Surface Laptop 13 and Surface Laptop 15 are available; Surface Studio All-in-One is a reserved desktop; no RAM-capacity column exists. The guest Wi-Fi guide specifies Contoso Guest and four hours per session. If the event's data differs, update the reference responses and learner evidence checklist together. Do not make the runtime answer a pass merely by editing the expected response to match it.
+
+The cases do not authorize a request submission. Evaluation still executes real tools, so preserve the isolated resources and assigned lab recipient, and verify zero new submission workflow runs and request emails. Check evaluation connections with the assigned account and ensure the saved instruction changes are the version under test. **General quality** is not an expected-answer comparison; learners must inspect facts, citations, skill/tool use, and side effects separately.
+
+The 30-minute planning block includes one evaluation run and results review. A rerun is required after fixing an observed failure; allow extra time rather than publishing a failed or incomplete evaluation. No live PREL36 evaluation run or successful CSV import is claimed by this package.
+
 ## Source mapping and four-hour adaptations
 
 Source: [Agent Academy Recruit NextGen](https://github.com/microsoft/agent-academy/tree/b9a562f2505c4dd31c356dca0f01f45832f5707f/docs/recruit-nextgen), revision `b9a562f2505c4dd31c356dca0f01f45832f5707f`.
@@ -128,11 +143,12 @@ Source: [Agent Academy Recruit NextGen](https://github.com/microsoft/agent-acade
 | 05 Add tools | Keep fixed-resource SharePoint connector and add an explicit live-data check |
 | 06 Add skills | Compare v1.0.1 with v1.0.3; omit a separate v1.0.2 upload; keep troubleshooting |
 | 07 Workflows | Keep input/output contract, Get item, email, confirmation, and cancellation; omit optional HTML styling |
+| Evaluation extension | Add a Contoso-specific seven-conversation CSV and review/fix/evaluate exercise before publishing; adapt generic UI controls from LAB665 |
 | 08 Publish | Configure the listing and test Teams; second-channel test is an extension |
 | 09 Licensing | Condense to usage principles and authoritative references; no pricing exercise |
 | Badge submission | Link to the full Academy path; do not award a badge for this condensed lab |
 
-Retain the [MIT license copy](../instructions/assets/LICENSE-Agent-Academy) with the reused screenshots, documents, workbook, images, and skill files. The preferred-solution, agent creation, and agent-settings screenshots have been replaced with event screenshots supplied during lab review, and a screenshot of the Work IQ and SharePoint knowledge dialog has been added. Remaining Academy assets are unchanged; verify all screenshots against the actual tenant before delivery.
+Retain the [MIT license copy](../instructions/assets/LICENSE-Agent-Academy) with the reused Academy screenshots, documents, workbook, images, and skill files. The preferred-solution, agent creation, and agent-settings screenshots have been replaced with event screenshots supplied during lab review, and a screenshot of the Work IQ and SharePoint knowledge dialog has been added. Evaluation controls are cropped from [LAB665](https://github.com/microsoft/ignite26-LAB665/blob/4685870/instructions/05-Evaluate-And-Publish.md); preserve their [attribution](../instructions/assets/evaluation/README.md) and [documentation license](../LICENSE-DOCS). Remaining Academy assets are unchanged; verify all screenshots against the actual tenant before delivery.
 
 ## Delivery rehearsal checklist
 
@@ -146,6 +162,9 @@ Retain the [MIT license copy](../instructions/assets/LICENSE-Agent-Academy) with
 - [ ] Verify workflow input types, output value, and event-tenant email sensitivity policy.
 - [ ] Confirm no email before confirmation and no workflow submission or email on cancellation.
 - [ ] Confirm successful emails contain the correct selected item, requester, and requirement.
+- [ ] Inspect actual Review findings and rehearse the availability/specification instruction improvement without requiring an artificial error.
+- [ ] Import the baseline as Conversations, confirm seven conversations/nine question-response rows, and run it against the saved changes.
+- [ ] Verify evaluation connections, factual evidence, and zero new submission workflow runs or request emails; rehearse a fix/rerun if needed.
 - [ ] Verify publication and installation policies, and run an employee-channel live-data test.
 - [ ] Confirm local downloads, screenshots, autotype, navigation, and final Submit behavior in Skillable.
 - [ ] Rehearse the 220-minute learner path plus two 10-minute breaks; adjust the delivery estimate if needed.

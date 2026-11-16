@@ -4,7 +4,8 @@ A Power Platform solution groups related components so they can move together be
 
 ## Log in
 
-1. Open Microsoft Edge Browser (the Internet icon on the VM desktop) in your virtual machine and go to +++https://copilotstudio.microsoft.com+++.
+<!-- markdownlint-disable-next-line MD034 -->
+1. Open Microsoft Edge (the Internet icon on the VM desktop) in your virtual machine and go to +++https://copilotstudio.microsoft.com+++.
 1. Sign in with the username and TAP from the **Resources** tab.
 1. Select the environment dropdown in the bottom left-hand corner and choose the **Dev One** environment.
 
@@ -12,6 +13,7 @@ A Power Platform solution groups related components so they can move together be
 
 ## Create the publisher
 
+<!-- markdownlint-disable-next-line MD034 -->
 1. Open a new tab and go to +++https://make.powerapps.com+++.
 1. Select **Get started** if you see this **Welcome to Power Apps** screen.
 
@@ -46,7 +48,7 @@ A Power Platform solution groups related components so they can move together be
     ![Configure the custom publisher](./assets/03-configure-the-custom-solution-publisher-properties.png)
 
 1. Select **Save**.
-1. Confirm that **Contoso Solutions** is selected in the **Publisher** dropdown in **New solution** pane.
+1. Confirm that **Contoso Solutions** is selected in the **Publisher** dropdown in the **New solution** pane.
 
 ## Create and prefer the solution
 
