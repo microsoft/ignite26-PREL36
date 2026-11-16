@@ -3,7 +3,8 @@
   "language": "en",
   "files": [
     "**/*.md",
-    "instructions/downloads/evaluation/*.csv"
+    "instructions/downloads/evaluation/*.csv",
+    "instructions/downloads/bonus/*.csv"
   ],
   "words": [
     "benitez",
@@ -12,8 +13,11 @@
     "Dunnam",
     "elaiza",
     "frontmatter",
+    "Jabra",
+    "matplotlib",
     "microsoftdocs",
     "opensource",
+    "OptiPlex",
     "PREL36",
     "requestable",
     "Skillable",

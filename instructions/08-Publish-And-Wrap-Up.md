@@ -81,4 +81,4 @@ For current terms, consult [GitHub Copilot harness billing](https://learn.micros
 
 You built a solution-backed agent, grounded it in approved knowledge, connected live data and reusable skills, executed a confirmed request through a workflow, checked cancellation, improved the device-selection instructions, evaluated seven conversations, and published to an employee channel.
 
-Select **Next**, then **Submit** when you are ready to finish the lab.
+Finished early? Select **Next**, or open [Bonus labs: sandbox, memory, Work IQ, and apps](./09-Bonus-Labs.md), to try an optional extension. Otherwise, skip the bonus exercises and continue to the final **Submit** step. The core workshop is complete.

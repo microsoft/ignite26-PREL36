@@ -1,0 +1,701 @@
+AssetID,DeviceType,Model,Department,Location,Status,PurchaseDate,WarrantyEndDate
+AST-00416,Monitor,Dell P2425H,Engineering,Atlanta,Assigned,2025-08-02,2028-08-01
+AST-00328,Desktop,Dell OptiPlex 7020,Customer Success,Denver,Assigned,2022-10-11,2025-10-10
+AST-00362,Desktop,HP Elite Mini 800,IT,Redmond,Assigned,2023-02-13,2026-02-12
+AST-00210,Laptop,Dell Latitude 7450,Operations,Denver,Assigned,2024-11-28,2027-11-28
+AST-00110,Laptop,Lenovo ThinkPad T14,Operations,New York,Assigned,2023-05-25,2026-05-24
+AST-00016,Laptop,Dell Latitude 7450,Finance,Denver,Assigned,2025-06-05,2028-06-04
+AST-00670,Printer,HP LaserJet Pro,HR,Austin,Assigned,2023-04-28,2026-04-27
+AST-00431,Monitor,LG 27UP850K,Marketing,Redmond,Assigned,2023-03-04,2026-03-03
+AST-00643,Docking Station,Dell WD22TB4,IT,New York,In Stock,2023-10-02,2026-10-01
+AST-00333,Desktop,Dell OptiPlex 7020,Marketing,Atlanta,In Repair,2026-05-29,2029-05-28
+AST-00651,Docking Station,Surface Thunderbolt 4 Dock,IT,Remote,Assigned,2024-08-18,2027-08-18
+AST-00308,Laptop,Dell Latitude 7450,Engineering,New York,Retired,2025-08-19,2028-08-18
+AST-00113,Laptop,Dell Latitude 7450,Finance,Remote,Assigned,2023-04-27,2026-04-26
+AST-00499,Monitor,Dell P2425H,Customer Success,Atlanta,Assigned,2025-12-30,2028-12-29
+AST-00366,Desktop,Dell OptiPlex 7020,Engineering,Remote,Assigned,2023-05-28,2026-05-27
+AST-00177,Laptop,Dell Latitude 7450,HR,New York,Assigned,2022-10-26,2025-10-25
+AST-00649,Docking Station,Surface Thunderbolt 4 Dock,Finance,Denver,Assigned,2026-01-08,2029-01-07
+AST-00349,Desktop,HP Elite Mini 800,IT,Chicago,In Repair,2023-09-15,2026-09-14
+AST-00268,Laptop,Surface Laptop 6,Marketing,Denver,Assigned,2023-08-01,2026-07-31
+AST-00581,Tablet,iPad Air,Engineering,Austin,Assigned,2024-04-22,2027-04-22
+AST-00534,Tablet,iPad Air,Marketing,Redmond,Assigned,2024-08-10,2027-08-10
+AST-00035,Laptop,Dell Latitude 7450,Marketing,Chicago,Assigned,2023-04-23,2026-04-22
+AST-00023,Laptop,Surface Laptop 6,Marketing,Austin,Assigned,2025-02-13,2028-02-13
+AST-00688,Headset,Poly Voyager Focus 2,HR,Remote,Assigned,2023-07-04,2026-07-03
+AST-00269,Laptop,Lenovo ThinkPad T14,Sales,Denver,Assigned,2023-06-16,2026-06-15
+AST-00689,Headset,Jabra Evolve2 65,Finance,New York,Assigned,2026-08-17,2029-08-16
+AST-00694,Headset,Poly Voyager Focus 2,Customer Success,Austin,Assigned,2022-12-10,2025-12-09
+AST-00460,Monitor,Dell P2425H,Operations,Remote,Assigned,2022-10-15,2025-10-14
+AST-00693,Headset,Poly Voyager Focus 2,Customer Success,Remote,Assigned,2023-02-16,2026-02-15
+AST-00024,Laptop,Lenovo ThinkPad T14,Engineering,Atlanta,Assigned,2025-06-04,2028-06-03
+AST-00675,Printer,HP LaserJet Pro,Operations,Atlanta,Assigned,2026-08-21,2029-08-20
+AST-00573,Tablet,iPad Air,Customer Success,Austin,Assigned,2023-01-17,2026-01-16
+AST-00347,Desktop,HP Elite Mini 800,Finance,Denver,In Repair,2026-03-17,2029-03-16
+AST-00172,Laptop,Lenovo ThinkPad T14,IT,Denver,Assigned,2023-11-12,2026-11-11
+AST-00344,Desktop,HP Elite Mini 800,HR,Denver,Retired,2024-04-21,2027-04-21
+AST-00521,Monitor,Dell P2425H,Sales,Denver,Assigned,2026-06-09,2029-06-08
+AST-00374,Desktop,HP Elite Mini 800,Sales,New York,Assigned,2022-11-07,2025-11-06
+AST-00590,Smartphone,iPhone 15,Sales,Denver,Assigned,2026-08-20,2029-08-19
+AST-00571,Tablet,Surface Pro 10,Sales,Chicago,Assigned,2026-02-12,2029-02-11
+AST-00146,Laptop,Surface Laptop 6,Marketing,Chicago,Assigned,2024-12-02,2027-12-02
+AST-00317,Desktop,HP Elite Mini 800,HR,New York,In Repair,2024-09-28,2027-09-28
+AST-00584,Tablet,Surface Pro 10,Customer Success,Atlanta,In Repair,2026-08-31,2029-08-30
+AST-00385,Desktop,HP Elite Mini 800,Finance,New York,Assigned,2026-03-02,2029-03-01
+AST-00173,Laptop,Surface Laptop 6,Sales,Atlanta,Assigned,2023-10-31,2026-10-30
+AST-00078,Laptop,Surface Laptop 6,Sales,New York,Assigned,2024-05-03,2027-05-03
+AST-00697,Headset,Jabra Evolve2 65,IT,Remote,Retired,2023-04-12,2026-04-11
+AST-00147,Laptop,Lenovo ThinkPad T14,HR,Chicago,In Stock,2023-04-03,2026-04-02
+AST-00642,Docking Station,Dell WD22TB4,Marketing,Chicago,Assigned,2023-03-06,2026-03-05
+AST-00108,Laptop,Dell Latitude 7450,IT,Remote,In Stock,2025-09-10,2028-09-09
+AST-00045,Laptop,Lenovo ThinkPad T14,HR,Chicago,Assigned,2026-04-06,2029-04-05
+AST-00696,Headset,Jabra Evolve2 65,Engineering,Remote,Assigned,2024-04-27,2027-04-27
+AST-00258,Laptop,Surface Laptop 6,Operations,Austin,In Stock,2023-03-22,2026-03-21
+AST-00140,Laptop,Lenovo ThinkPad T14,Engineering,Austin,Assigned,2026-03-17,2029-03-16
+AST-00011,Laptop,Lenovo ThinkPad T14,Finance,Remote,Assigned,2026-01-21,2029-01-20
+AST-00094,Laptop,Lenovo ThinkPad T14,Finance,Redmond,Assigned,2023-01-03,2026-01-02
+AST-00055,Laptop,Surface Laptop 6,Sales,New York,Retired,2023-01-16,2026-01-15
+AST-00359,Desktop,HP Elite Mini 800,Marketing,Atlanta,Assigned,2023-12-22,2026-12-21
+AST-00380,Desktop,Dell OptiPlex 7020,HR,Redmond,In Stock,2026-06-26,2029-06-25
+AST-00211,Laptop,Lenovo ThinkPad T14,Finance,Atlanta,Assigned,2026-08-30,2029-08-29
+AST-00464,Monitor,Dell P2425H,Marketing,New York,Assigned,2025-10-10,2028-10-09
+AST-00505,Monitor,LG 27UP850K,Customer Success,New York,Assigned,2023-10-28,2026-10-27
+AST-00167,Laptop,Lenovo ThinkPad T14,HR,Austin,Assigned,2025-03-17,2028-03-16
+AST-00263,Laptop,Dell Latitude 7450,IT,Austin,Assigned,2025-11-21,2028-11-20
+AST-00553,Tablet,Surface Pro 10,Operations,Redmond,Assigned,2023-10-04,2026-10-03
+AST-00168,Laptop,Lenovo ThinkPad T14,Sales,Remote,In Stock,2023-07-03,2026-07-02
+AST-00068,Laptop,Surface Laptop 6,Sales,Chicago,Assigned,2024-04-17,2027-04-17
+AST-00001,Laptop,Dell Latitude 7450,Engineering,Austin,Assigned,2023-06-16,2026-06-15
+AST-00074,Laptop,Surface Laptop 6,IT,Chicago,Assigned,2024-01-29,2027-01-28
+AST-00277,Laptop,Surface Laptop 6,Customer Success,Remote,In Repair,2023-01-23,2026-01-22
+AST-00407,Desktop,HP Elite Mini 800,Engineering,Remote,Assigned,2026-08-12,2029-08-11
+AST-00593,Smartphone,iPhone 15,Marketing,Remote,Assigned,2024-12-27,2027-12-27
+AST-00154,Laptop,Dell Latitude 7450,Engineering,Austin,Assigned,2025-06-28,2028-06-27
+AST-00606,Smartphone,Samsung Galaxy S24,HR,New York,In Stock,2023-12-20,2026-12-19
+AST-00395,Desktop,Dell OptiPlex 7020,IT,Redmond,Assigned,2026-07-18,2029-07-17
+AST-00109,Laptop,Surface Laptop 6,Finance,Atlanta,Assigned,2023-08-08,2026-08-07
+AST-00574,Tablet,Surface Pro 10,Customer Success,Denver,Assigned,2023-08-08,2026-08-07
+AST-00234,Laptop,Surface Laptop 6,Marketing,Atlanta,In Stock,2025-10-02,2028-10-01
+AST-00302,Laptop,Surface Laptop 6,Customer Success,Remote,Assigned,2024-05-29,2027-05-29
+AST-00543,Tablet,iPad Air,Customer Success,Redmond,Assigned,2023-01-14,2026-01-13
+AST-00138,Laptop,Lenovo ThinkPad T14,Marketing,Chicago,Assigned,2026-06-18,2029-06-17
+AST-00527,Monitor,HP E24 G5,Finance,New York,Retired,2023-02-17,2026-02-16
+AST-00411,Desktop,HP Elite Mini 800,Operations,Remote,Assigned,2025-11-03,2028-11-02
+AST-00370,Desktop,Dell OptiPlex 7020,Operations,Chicago,In Repair,2023-01-22,2026-01-21
+AST-00272,Laptop,Lenovo ThinkPad T14,Sales,Austin,Assigned,2024-07-06,2027-07-06
+AST-00472,Monitor,LG 27UP850K,Marketing,Remote,Retired,2023-10-10,2026-10-09
+AST-00358,Desktop,Dell OptiPlex 7020,Customer Success,Chicago,Assigned,2025-02-23,2028-02-23
+AST-00685,Printer,Brother HL-L2460DW,Customer Success,Remote,Assigned,2026-06-16,2029-06-15
+AST-00578,Tablet,iPad Air,Finance,New York,Assigned,2026-07-13,2029-07-12
+AST-00461,Monitor,LG 27UP850K,Engineering,Austin,Assigned,2023-12-02,2026-12-01
+AST-00625,Smartphone,Samsung Galaxy S24,Marketing,Redmond,In Stock,2023-09-06,2026-09-05
+AST-00393,Desktop,HP Elite Mini 800,Operations,Denver,Assigned,2025-05-02,2028-05-01
+AST-00700,Headset,Poly Voyager Focus 2,Finance,Chicago,Assigned,2026-04-20,2029-04-19
+AST-00053,Laptop,Dell Latitude 7450,IT,Redmond,In Stock,2025-04-19,2028-04-18
+AST-00188,Laptop,Dell Latitude 7450,Customer Success,Atlanta,Assigned,2023-07-05,2026-07-04
+AST-00429,Monitor,HP E24 G5,Engineering,New York,Retired,2025-07-07,2028-07-06
+AST-00608,Smartphone,iPhone 15,IT,Atlanta,Assigned,2023-01-26,2026-01-25
+AST-00570,Tablet,Surface Pro 10,Customer Success,Redmond,Assigned,2022-10-19,2025-10-18
+AST-00500,Monitor,Dell P2425H,Marketing,Redmond,Assigned,2023-09-27,2026-09-26
+AST-00009,Laptop,Dell Latitude 7450,IT,Atlanta,Assigned,2024-05-14,2027-05-14
+AST-00243,Laptop,Surface Laptop 6,Sales,New York,Assigned,2023-05-27,2026-05-26
+AST-00174,Laptop,Dell Latitude 7450,Marketing,Austin,Assigned,2023-05-30,2026-05-29
+AST-00217,Laptop,Lenovo ThinkPad T14,IT,New York,Assigned,2024-12-02,2027-12-02
+AST-00445,Monitor,LG 27UP850K,Engineering,Remote,Assigned,2024-06-26,2027-06-26
+AST-00034,Laptop,Dell Latitude 7450,IT,Denver,Assigned,2025-04-11,2028-04-10
+AST-00270,Laptop,Dell Latitude 7450,Sales,Atlanta,Assigned,2023-02-13,2026-02-12
+AST-00511,Monitor,HP E24 G5,Marketing,Chicago,In Repair,2026-08-30,2029-08-29
+AST-00300,Laptop,Lenovo ThinkPad T14,Sales,Chicago,Assigned,2023-12-28,2026-12-27
+AST-00673,Printer,HP LaserJet Pro,Sales,Chicago,Assigned,2024-09-19,2027-09-19
+AST-00192,Laptop,Dell Latitude 7450,Finance,New York,Assigned,2025-05-17,2028-05-16
+AST-00369,Desktop,Dell OptiPlex 7020,IT,Atlanta,In Stock,2024-10-19,2027-10-19
+AST-00027,Laptop,Lenovo ThinkPad T14,Customer Success,Austin,Assigned,2023-07-10,2026-07-09
+AST-00114,Laptop,Surface Laptop 6,Sales,Redmond,Assigned,2026-07-29,2029-07-28
+AST-00116,Laptop,Surface Laptop 6,HR,Atlanta,In Repair,2024-02-09,2027-02-08
+AST-00550,Tablet,iPad Air,Operations,Chicago,Assigned,2023-09-24,2026-09-23
+AST-00353,Desktop,Dell OptiPlex 7020,Sales,New York,Assigned,2022-10-22,2025-10-21
+AST-00604,Smartphone,iPhone 15,Finance,Atlanta,Assigned,2023-02-17,2026-02-16
+AST-00025,Laptop,Dell Latitude 7450,Engineering,Remote,Assigned,2026-07-22,2029-07-21
+AST-00494,Monitor,Dell P2425H,Marketing,Chicago,Assigned,2025-01-24,2028-01-24
+AST-00121,Laptop,Surface Laptop 6,IT,Denver,Assigned,2025-02-03,2028-02-03
+AST-00468,Monitor,LG 27UP850K,Customer Success,Austin,In Stock,2023-05-01,2026-04-30
+AST-00136,Laptop,Lenovo ThinkPad T14,Marketing,Redmond,In Stock,2024-08-28,2027-08-28
+AST-00641,Docking Station,Surface Thunderbolt 4 Dock,Finance,Remote,Assigned,2025-01-31,2028-01-31
+AST-00127,Laptop,Surface Laptop 6,Operations,Denver,Assigned,2024-02-02,2027-02-01
+AST-00637,Docking Station,Dell WD22TB4,Operations,Chicago,In Stock,2024-03-25,2027-03-25
+AST-00299,Laptop,Lenovo ThinkPad T14,Finance,Austin,Assigned,2025-12-15,2028-12-14
+AST-00274,Laptop,Lenovo ThinkPad T14,HR,Denver,Retired,2023-05-14,2026-05-13
+AST-00635,Docking Station,Surface Thunderbolt 4 Dock,Engineering,Redmond,Assigned,2024-09-12,2027-09-12
+AST-00418,Monitor,LG 27UP850K,HR,Redmond,Assigned,2024-05-28,2027-05-28
+AST-00259,Laptop,Surface Laptop 6,Operations,Redmond,Assigned,2024-05-13,2027-05-13
+AST-00439,Monitor,LG 27UP850K,IT,New York,Assigned,2026-06-05,2029-06-04
+AST-00551,Tablet,Surface Pro 10,Engineering,New York,In Stock,2025-04-29,2028-04-28
+AST-00341,Desktop,Dell OptiPlex 7020,Operations,Denver,Assigned,2025-01-06,2028-01-06
+AST-00663,Docking Station,Surface Thunderbolt 4 Dock,Sales,New York,Assigned,2023-01-08,2026-01-07
+AST-00594,Smartphone,Samsung Galaxy S24,Customer Success,Redmond,Assigned,2025-09-23,2028-09-22
+AST-00451,Monitor,LG 27UP850K,Engineering,Redmond,Assigned,2024-01-07,2027-01-06
+AST-00033,Laptop,Surface Laptop 6,Sales,Redmond,Assigned,2026-05-16,2029-05-15
+AST-00440,Monitor,HP E24 G5,Customer Success,Austin,Assigned,2024-12-25,2027-12-25
+AST-00547,Tablet,iPad Air,Sales,New York,Assigned,2023-10-24,2026-10-23
+AST-00597,Smartphone,Samsung Galaxy S24,IT,New York,Assigned,2025-01-27,2028-01-27
+AST-00156,Laptop,Lenovo ThinkPad T14,Sales,Austin,Assigned,2023-02-25,2026-02-24
+AST-00018,Laptop,Dell Latitude 7450,Customer Success,Chicago,Assigned,2026-08-03,2029-08-02
+AST-00336,Desktop,Dell OptiPlex 7020,Sales,Chicago,Assigned,2023-11-02,2026-11-01
+AST-00492,Monitor,HP E24 G5,HR,Chicago,Assigned,2023-06-28,2026-06-27
+AST-00134,Laptop,Dell Latitude 7450,HR,Redmond,Assigned,2025-12-20,2028-12-19
+AST-00255,Laptop,Dell Latitude 7450,Finance,Remote,In Stock,2025-08-21,2028-08-20
+AST-00293,Laptop,Lenovo ThinkPad T14,HR,Chicago,Assigned,2023-06-26,2026-06-25
+AST-00665,Docking Station,Surface Thunderbolt 4 Dock,Marketing,Chicago,Assigned,2022-11-25,2025-11-24
+AST-00463,Monitor,HP E24 G5,HR,Atlanta,Assigned,2023-03-05,2026-03-04
+AST-00294,Laptop,Lenovo ThinkPad T14,Marketing,Austin,Assigned,2024-02-09,2027-02-08
+AST-00599,Smartphone,iPhone 15,Finance,Chicago,Assigned,2024-11-08,2027-11-08
+AST-00236,Laptop,Dell Latitude 7450,Operations,Austin,Assigned,2026-02-12,2029-02-11
+AST-00690,Headset,Poly Voyager Focus 2,IT,Redmond,Assigned,2026-04-14,2029-04-13
+AST-00447,Monitor,HP E24 G5,Marketing,Austin,Assigned,2025-05-31,2028-05-30
+AST-00405,Desktop,HP Elite Mini 800,Engineering,Redmond,Assigned,2026-01-14,2029-01-13
+AST-00086,Laptop,Dell Latitude 7450,HR,Atlanta,Retired,2026-08-15,2029-08-14
+AST-00306,Laptop,Surface Laptop 6,Finance,Austin,Assigned,2025-06-29,2028-06-28
+AST-00148,Laptop,Lenovo ThinkPad T14,Finance,Atlanta,Assigned,2022-11-10,2025-11-09
+AST-00089,Laptop,Surface Laptop 6,Sales,Denver,In Stock,2026-03-12,2029-03-11
+AST-00605,Smartphone,Samsung Galaxy S24,Engineering,Denver,Retired,2026-09-15,2029-09-14
+AST-00311,Desktop,Dell OptiPlex 7020,Finance,New York,Assigned,2023-08-17,2026-08-16
+AST-00228,Laptop,Lenovo ThinkPad T14,Sales,Remote,Assigned,2023-11-15,2026-11-14
+AST-00238,Laptop,Dell Latitude 7450,Sales,New York,In Stock,2024-04-26,2027-04-26
+AST-00169,Laptop,Lenovo ThinkPad T14,HR,New York,Assigned,2025-08-04,2028-08-03
+AST-00122,Laptop,Dell Latitude 7450,Customer Success,Atlanta,Assigned,2026-01-20,2029-01-19
+AST-00564,Tablet,Surface Pro 10,IT,Chicago,In Stock,2023-06-13,2026-06-12
+AST-00141,Laptop,Dell Latitude 7450,Marketing,Austin,Assigned,2024-05-20,2027-05-20
+AST-00588,Smartphone,Samsung Galaxy S24,Operations,Remote,Assigned,2022-11-30,2025-11-29
+AST-00469,Monitor,HP E24 G5,Customer Success,Chicago,Assigned,2026-04-17,2029-04-16
+AST-00457,Monitor,Dell P2425H,Finance,New York,In Stock,2023-07-29,2026-07-28
+AST-00125,Laptop,Lenovo ThinkPad T14,Operations,Remote,Assigned,2025-11-27,2028-11-26
+AST-00179,Laptop,Dell Latitude 7450,Finance,Redmond,In Stock,2023-02-07,2026-02-06
+AST-00019,Laptop,Lenovo ThinkPad T14,HR,Redmond,In Repair,2026-06-05,2029-06-04
+AST-00346,Desktop,Dell OptiPlex 7020,Sales,Redmond,Assigned,2022-10-09,2025-10-08
+AST-00667,Printer,HP LaserJet Pro,HR,Redmond,Assigned,2025-05-07,2028-05-06
+AST-00229,Laptop,Lenovo ThinkPad T14,Customer Success,Atlanta,Assigned,2025-01-21,2028-01-21
+AST-00618,Smartphone,Samsung Galaxy S24,HR,Chicago,Assigned,2023-04-22,2026-04-21
+AST-00072,Laptop,Dell Latitude 7450,IT,Atlanta,Assigned,2023-01-06,2026-01-05
+AST-00104,Laptop,Dell Latitude 7450,Operations,Chicago,Retired,2023-01-20,2026-01-19
+AST-00084,Laptop,Dell Latitude 7450,HR,Chicago,Assigned,2025-05-10,2028-05-09
+AST-00623,Smartphone,Samsung Galaxy S24,Operations,Austin,Assigned,2024-01-08,2027-01-07
+AST-00509,Monitor,HP E24 G5,IT,Austin,Assigned,2024-07-26,2027-07-26
+AST-00048,Laptop,Dell Latitude 7450,IT,Austin,Assigned,2026-06-20,2029-06-19
+AST-00619,Smartphone,iPhone 15,HR,New York,Assigned,2023-07-18,2026-07-17
+AST-00273,Laptop,Surface Laptop 6,Engineering,Remote,In Repair,2026-07-25,2029-07-24
+AST-00560,Tablet,Surface Pro 10,Marketing,New York,Assigned,2023-10-29,2026-10-28
+AST-00687,Headset,Poly Voyager Focus 2,Customer Success,Denver,Assigned,2023-04-05,2026-04-04
+AST-00196,Laptop,Dell Latitude 7450,Marketing,Chicago,Assigned,2023-11-20,2026-11-19
+AST-00164,Laptop,Lenovo ThinkPad T14,Marketing,New York,Assigned,2023-09-26,2026-09-25
+AST-00111,Laptop,Dell Latitude 7450,Marketing,Atlanta,In Stock,2024-11-23,2027-11-23
+AST-00020,Laptop,Dell Latitude 7450,HR,Denver,In Stock,2026-03-05,2029-03-04
+AST-00432,Monitor,HP E24 G5,Customer Success,Atlanta,In Repair,2023-12-26,2026-12-25
+AST-00582,Tablet,Surface Pro 10,Engineering,Redmond,Assigned,2024-02-27,2027-02-26
+AST-00596,Smartphone,Samsung Galaxy S24,Customer Success,Redmond,Assigned,2025-01-30,2028-01-30
+AST-00506,Monitor,Dell P2425H,IT,New York,Assigned,2024-06-07,2027-06-07
+AST-00676,Printer,HP LaserJet Pro,Engineering,Redmond,Assigned,2025-01-24,2028-01-24
+AST-00316,Desktop,HP Elite Mini 800,HR,Redmond,Assigned,2023-07-08,2026-07-07
+AST-00450,Monitor,Dell P2425H,Operations,Redmond,Assigned,2025-08-12,2028-08-11
+AST-00158,Laptop,Dell Latitude 7450,Customer Success,Chicago,Assigned,2023-02-21,2026-02-20
+AST-00423,Monitor,HP E24 G5,Engineering,Remote,In Stock,2024-02-09,2027-02-08
+AST-00383,Desktop,HP Elite Mini 800,Operations,Chicago,Assigned,2025-01-04,2028-01-04
+AST-00562,Tablet,iPad Air,Engineering,Atlanta,In Stock,2024-03-02,2027-03-02
+AST-00115,Laptop,Dell Latitude 7450,Engineering,New York,Assigned,2026-09-10,2029-09-09
+AST-00616,Smartphone,iPhone 15,Customer Success,Atlanta,Assigned,2025-05-05,2028-05-04
+AST-00318,Desktop,HP Elite Mini 800,Finance,Austin,Assigned,2023-04-04,2026-04-03
+AST-00139,Laptop,Surface Laptop 6,IT,Chicago,Assigned,2023-03-19,2026-03-18
+AST-00424,Monitor,HP E24 G5,Marketing,Austin,Assigned,2022-11-18,2025-11-17
+AST-00446,Monitor,Dell P2425H,Engineering,Redmond,Assigned,2023-11-02,2026-11-01
+AST-00237,Laptop,Surface Laptop 6,Operations,Chicago,Assigned,2025-09-09,2028-09-08
+AST-00345,Desktop,Dell OptiPlex 7020,Customer Success,Denver,Assigned,2025-10-21,2028-10-20
+AST-00284,Laptop,Lenovo ThinkPad T14,IT,Chicago,Assigned,2023-06-07,2026-06-06
+AST-00330,Desktop,Dell OptiPlex 7020,IT,Chicago,In Stock,2023-05-22,2026-05-21
+AST-00042,Laptop,Lenovo ThinkPad T14,HR,Denver,In Stock,2024-10-29,2027-10-29
+AST-00008,Laptop,Surface Laptop 6,Engineering,New York,Assigned,2025-04-06,2028-04-05
+AST-00421,Monitor,Dell P2425H,Marketing,Atlanta,Assigned,2026-06-27,2029-06-26
+AST-00398,Desktop,Dell OptiPlex 7020,Sales,Chicago,Assigned,2025-06-25,2028-06-24
+AST-00408,Desktop,HP Elite Mini 800,Operations,New York,Assigned,2024-06-01,2027-06-01
+AST-00537,Tablet,iPad Air,Sales,New York,Assigned,2022-10-29,2025-10-28
+AST-00144,Laptop,Lenovo ThinkPad T14,Finance,Denver,Assigned,2024-05-18,2027-05-18
+AST-00028,Laptop,Dell Latitude 7450,Sales,New York,Assigned,2024-03-04,2027-03-04
+AST-00390,Desktop,Dell OptiPlex 7020,Operations,New York,Assigned,2026-06-20,2029-06-19
+AST-00235,Laptop,Lenovo ThinkPad T14,Engineering,Remote,Assigned,2024-05-26,2027-05-26
+AST-00220,Laptop,Lenovo ThinkPad T14,Marketing,Denver,Assigned,2023-01-11,2026-01-10
+AST-00479,Monitor,HP E24 G5,Finance,Chicago,Assigned,2024-09-22,2027-09-22
+AST-00535,Tablet,Surface Pro 10,Finance,Denver,Assigned,2023-01-25,2026-01-24
+AST-00257,Laptop,Lenovo ThinkPad T14,IT,Austin,Assigned,2023-04-15,2026-04-14
+AST-00085,Laptop,Surface Laptop 6,Marketing,Chicago,In Repair,2025-06-18,2028-06-17
+AST-00307,Laptop,Lenovo ThinkPad T14,Operations,Remote,Assigned,2025-12-01,2028-11-30
+AST-00595,Smartphone,iPhone 15,HR,Atlanta,Assigned,2025-08-25,2028-08-24
+AST-00061,Laptop,Surface Laptop 6,Customer Success,Austin,Assigned,2024-10-13,2027-10-13
+AST-00189,Laptop,Surface Laptop 6,Engineering,New York,In Stock,2026-04-01,2029-03-31
+AST-00193,Laptop,Lenovo ThinkPad T14,Sales,Chicago,Assigned,2024-11-10,2027-11-10
+AST-00475,Monitor,HP E24 G5,IT,Austin,In Stock,2022-10-20,2025-10-19
+AST-00278,Laptop,Surface Laptop 6,HR,Austin,Assigned,2023-07-17,2026-07-16
+AST-00402,Desktop,HP Elite Mini 800,Finance,Redmond,Assigned,2025-04-04,2028-04-03
+AST-00082,Laptop,Dell Latitude 7450,HR,Chicago,In Stock,2026-04-19,2029-04-18
+AST-00350,Desktop,HP Elite Mini 800,Operations,Denver,In Stock,2024-07-16,2027-07-16
+AST-00611,Smartphone,iPhone 15,Finance,Redmond,Assigned,2022-10-12,2025-10-11
+AST-00647,Docking Station,Dell WD22TB4,IT,Austin,Assigned,2024-07-09,2027-07-09
+AST-00090,Laptop,Dell Latitude 7450,Operations,Redmond,Assigned,2023-04-30,2026-04-29
+AST-00668,Printer,Brother HL-L2460DW,IT,Redmond,Assigned,2025-01-18,2028-01-18
+AST-00059,Laptop,Surface Laptop 6,Marketing,Atlanta,In Stock,2025-02-11,2028-02-11
+AST-00225,Laptop,Surface Laptop 6,IT,Denver,Assigned,2023-03-29,2026-03-28
+AST-00091,Laptop,Lenovo ThinkPad T14,Operations,Redmond,Assigned,2023-07-10,2026-07-09
+AST-00296,Laptop,Lenovo ThinkPad T14,Finance,Austin,Assigned,2024-10-02,2027-10-02
+AST-00378,Desktop,HP Elite Mini 800,Engineering,New York,In Stock,2024-08-21,2027-08-21
+AST-00664,Docking Station,Surface Thunderbolt 4 Dock,Marketing,Remote,Assigned,2023-05-26,2026-05-25
+AST-00612,Smartphone,iPhone 15,Finance,Remote,Assigned,2023-04-29,2026-04-28
+AST-00224,Laptop,Dell Latitude 7450,Engineering,New York,Assigned,2022-10-14,2025-10-13
+AST-00473,Monitor,HP E24 G5,Operations,Chicago,Assigned,2024-08-23,2027-08-23
+AST-00609,Smartphone,Samsung Galaxy S24,Operations,Chicago,Assigned,2024-09-15,2027-09-15
+AST-00483,Monitor,Dell P2425H,IT,Chicago,Assigned,2023-02-27,2026-02-26
+AST-00264,Laptop,Dell Latitude 7450,Marketing,Denver,Assigned,2023-05-30,2026-05-29
+AST-00589,Smartphone,Samsung Galaxy S24,Engineering,New York,In Stock,2026-05-26,2029-05-25
+AST-00050,Laptop,Lenovo ThinkPad T14,Finance,Denver,Assigned,2024-02-22,2027-02-21
+AST-00462,Monitor,LG 27UP850K,IT,Remote,Assigned,2024-06-29,2027-06-29
+AST-00542,Tablet,Surface Pro 10,IT,Chicago,Assigned,2024-01-23,2027-01-22
+AST-00559,Tablet,Surface Pro 10,HR,Denver,Assigned,2022-11-29,2025-11-28
+AST-00363,Desktop,HP Elite Mini 800,Customer Success,Chicago,Retired,2025-07-10,2028-07-09
+AST-00200,Laptop,Dell Latitude 7450,Customer Success,Redmond,In Stock,2024-07-06,2027-07-06
+AST-00523,Monitor,Dell P2425H,HR,Redmond,Assigned,2025-08-27,2028-08-26
+AST-00627,Smartphone,iPhone 15,Finance,Remote,Assigned,2022-10-23,2025-10-22
+AST-00231,Laptop,Dell Latitude 7450,Customer Success,Remote,Assigned,2024-12-16,2027-12-16
+AST-00557,Tablet,iPad Air,Customer Success,Chicago,In Repair,2024-05-17,2027-05-17
+AST-00352,Desktop,Dell OptiPlex 7020,Operations,Atlanta,Assigned,2022-10-25,2025-10-24
+AST-00290,Laptop,Dell Latitude 7450,Sales,Denver,Assigned,2026-06-27,2029-06-26
+AST-00679,Printer,Brother HL-L2460DW,Operations,Redmond,Assigned,2025-07-12,2028-07-11
+AST-00017,Laptop,Dell Latitude 7450,Customer Success,Redmond,Assigned,2022-10-25,2025-10-24
+AST-00586,Smartphone,Samsung Galaxy S24,Finance,Redmond,Assigned,2023-08-04,2026-08-03
+AST-00207,Laptop,Surface Laptop 6,HR,Chicago,Assigned,2024-02-01,2027-01-31
+AST-00355,Desktop,HP Elite Mini 800,Customer Success,Austin,Assigned,2023-04-06,2026-04-05
+AST-00098,Laptop,Dell Latitude 7450,Operations,Atlanta,Assigned,2023-06-02,2026-06-01
+AST-00204,Laptop,Lenovo ThinkPad T14,Sales,New York,In Stock,2025-03-17,2028-03-16
+AST-00191,Laptop,Surface Laptop 6,Operations,Remote,In Stock,2025-01-22,2028-01-22
+AST-00077,Laptop,Dell Latitude 7450,Customer Success,Chicago,In Repair,2026-02-27,2029-02-26
+AST-00205,Laptop,Surface Laptop 6,Sales,Redmond,In Stock,2025-09-15,2028-09-14
+AST-00433,Monitor,Dell P2425H,Customer Success,Chicago,Assigned,2023-07-15,2026-07-14
+AST-00039,Laptop,Dell Latitude 7450,Sales,Austin,Assigned,2026-01-18,2029-01-17
+AST-00157,Laptop,Lenovo ThinkPad T14,Marketing,Remote,Assigned,2026-05-23,2029-05-22
+AST-00032,Laptop,Dell Latitude 7450,HR,Chicago,Assigned,2023-10-07,2026-10-06
+AST-00658,Docking Station,Surface Thunderbolt 4 Dock,Operations,Redmond,Assigned,2024-05-28,2027-05-28
+AST-00478,Monitor,HP E24 G5,Engineering,New York,Assigned,2023-02-21,2026-02-20
+AST-00339,Desktop,Dell OptiPlex 7020,HR,Chicago,Assigned,2023-02-10,2026-02-09
+AST-00356,Desktop,HP Elite Mini 800,Engineering,Redmond,Assigned,2025-10-10,2028-10-09
+AST-00510,Monitor,LG 27UP850K,Customer Success,Chicago,In Stock,2023-01-01,2025-12-31
+AST-00184,Laptop,Surface Laptop 6,Engineering,Denver,In Stock,2026-08-10,2029-08-09
+AST-00545,Tablet,iPad Air,IT,New York,Assigned,2025-04-24,2028-04-23
+AST-00486,Monitor,HP E24 G5,Customer Success,Chicago,Assigned,2026-04-10,2029-04-09
+AST-00280,Laptop,Lenovo ThinkPad T14,Operations,Atlanta,Assigned,2024-11-20,2027-11-20
+AST-00419,Monitor,LG 27UP850K,Customer Success,Atlanta,In Repair,2023-09-28,2026-09-27
+AST-00165,Laptop,Lenovo ThinkPad T14,HR,Denver,Assigned,2025-12-18,2028-12-17
+AST-00062,Laptop,Surface Laptop 6,HR,Remote,In Repair,2025-12-16,2028-12-15
+AST-00142,Laptop,Surface Laptop 6,Sales,Chicago,Assigned,2026-03-21,2029-03-20
+AST-00242,Laptop,Surface Laptop 6,Operations,Chicago,Assigned,2024-06-24,2027-06-24
+AST-00245,Laptop,Dell Latitude 7450,Operations,New York,In Repair,2026-07-13,2029-07-12
+AST-00112,Laptop,Dell Latitude 7450,Engineering,Remote,Assigned,2026-01-01,2028-12-31
+AST-00614,Smartphone,iPhone 15,Finance,New York,Assigned,2023-12-22,2026-12-21
+AST-00682,Printer,Brother HL-L2460DW,Customer Success,Remote,Assigned,2026-09-14,2029-09-13
+AST-00592,Smartphone,Samsung Galaxy S24,Sales,Atlanta,In Stock,2026-07-01,2029-06-30
+AST-00538,Tablet,Surface Pro 10,Sales,New York,Assigned,2024-03-11,2027-03-11
+AST-00256,Laptop,Surface Laptop 6,Operations,Denver,Assigned,2026-01-19,2029-01-18
+AST-00539,Tablet,iPad Air,Sales,Denver,Assigned,2026-09-08,2029-09-07
+AST-00226,Laptop,Surface Laptop 6,Finance,Austin,Assigned,2026-02-24,2029-02-23
+AST-00373,Desktop,Dell OptiPlex 7020,Marketing,Atlanta,In Stock,2026-01-28,2029-01-27
+AST-00498,Monitor,Dell P2425H,Sales,Austin,Assigned,2026-03-01,2029-02-28
+AST-00630,Smartphone,iPhone 15,Operations,New York,Assigned,2026-03-13,2029-03-12
+AST-00659,Docking Station,Surface Thunderbolt 4 Dock,Sales,Remote,Assigned,2024-06-30,2027-06-30
+AST-00327,Desktop,Dell OptiPlex 7020,HR,Redmond,In Repair,2024-01-18,2027-01-17
+AST-00459,Monitor,Dell P2425H,Operations,Atlanta,Assigned,2025-08-28,2028-08-27
+AST-00295,Laptop,Lenovo ThinkPad T14,HR,New York,Assigned,2023-12-01,2026-11-30
+AST-00530,Monitor,HP E24 G5,HR,Austin,Assigned,2025-08-18,2028-08-17
+AST-00152,Laptop,Surface Laptop 6,Finance,Chicago,Assigned,2023-07-05,2026-07-04
+AST-00698,Headset,Poly Voyager Focus 2,Operations,Atlanta,Assigned,2024-03-14,2027-03-14
+AST-00513,Monitor,LG 27UP850K,Customer Success,Atlanta,In Repair,2025-09-29,2028-09-28
+AST-00337,Desktop,Dell OptiPlex 7020,HR,Denver,Assigned,2024-09-26,2027-09-26
+AST-00126,Laptop,Dell Latitude 7450,IT,Redmond,In Stock,2023-08-11,2026-08-10
+AST-00392,Desktop,Dell OptiPlex 7020,Customer Success,New York,Assigned,2025-09-18,2028-09-17
+AST-00610,Smartphone,Samsung Galaxy S24,Marketing,Redmond,In Stock,2025-03-17,2028-03-16
+AST-00425,Monitor,HP E24 G5,IT,Chicago,Assigned,2026-08-18,2029-08-17
+AST-00567,Tablet,Surface Pro 10,HR,New York,Assigned,2024-08-19,2027-08-19
+AST-00133,Laptop,Lenovo ThinkPad T14,Marketing,Remote,Assigned,2024-10-01,2027-10-01
+AST-00443,Monitor,Dell P2425H,Sales,New York,Assigned,2026-08-24,2029-08-23
+AST-00561,Tablet,Surface Pro 10,Finance,Remote,Assigned,2024-12-25,2027-12-25
+AST-00102,Laptop,Dell Latitude 7450,Customer Success,Atlanta,Assigned,2026-01-22,2029-01-21
+AST-00342,Desktop,Dell OptiPlex 7020,Sales,Atlanta,In Stock,2024-11-22,2027-11-22
+AST-00448,Monitor,LG 27UP850K,Marketing,Redmond,Assigned,2026-09-22,2029-09-21
+AST-00219,Laptop,Dell Latitude 7450,Sales,New York,Assigned,2024-06-04,2027-06-04
+AST-00467,Monitor,HP E24 G5,Operations,Denver,In Stock,2025-03-25,2028-03-24
+AST-00075,Laptop,Surface Laptop 6,Marketing,Chicago,Assigned,2023-09-20,2026-09-19
+AST-00067,Laptop,Lenovo ThinkPad T14,Operations,Austin,In Stock,2026-03-01,2029-02-28
+AST-00093,Laptop,Dell Latitude 7450,IT,New York,Assigned,2023-12-31,2026-12-30
+AST-00260,Laptop,Dell Latitude 7450,IT,Atlanta,Assigned,2025-11-09,2028-11-08
+AST-00474,Monitor,HP E24 G5,IT,Denver,Assigned,2023-10-15,2026-10-14
+AST-00636,Docking Station,Dell WD22TB4,Marketing,Denver,Assigned,2023-07-26,2026-07-25
+AST-00240,Laptop,Lenovo ThinkPad T14,Sales,New York,Assigned,2024-02-07,2027-02-06
+AST-00212,Laptop,Surface Laptop 6,Marketing,Denver,In Stock,2025-05-14,2028-05-13
+AST-00591,Smartphone,Samsung Galaxy S24,Operations,Denver,Assigned,2024-07-10,2027-07-10
+AST-00197,Laptop,Lenovo ThinkPad T14,Operations,Redmond,Retired,2024-06-02,2027-06-02
+AST-00482,Monitor,HP E24 G5,Sales,Remote,Assigned,2022-12-09,2025-12-08
+AST-00387,Desktop,HP Elite Mini 800,Engineering,Chicago,Assigned,2024-05-23,2027-05-23
+AST-00247,Laptop,Dell Latitude 7450,Customer Success,Austin,Assigned,2025-09-18,2028-09-17
+AST-00218,Laptop,Lenovo ThinkPad T14,Engineering,Austin,Assigned,2025-01-02,2028-01-02
+AST-00555,Tablet,iPad Air,Customer Success,Atlanta,Assigned,2022-12-22,2025-12-21
+AST-00672,Printer,Brother HL-L2460DW,Engineering,Remote,Assigned,2024-01-21,2027-01-20
+AST-00401,Desktop,Dell OptiPlex 7020,Engineering,New York,Assigned,2025-12-10,2028-12-09
+AST-00485,Monitor,HP E24 G5,Customer Success,Redmond,Assigned,2025-08-13,2028-08-12
+AST-00315,Desktop,HP Elite Mini 800,IT,New York,Assigned,2025-10-31,2028-10-30
+AST-00526,Monitor,HP E24 G5,IT,New York,Assigned,2025-10-27,2028-10-26
+AST-00699,Headset,Jabra Evolve2 65,Finance,Austin,Assigned,2023-07-31,2026-07-30
+AST-00069,Laptop,Lenovo ThinkPad T14,Engineering,Redmond,Assigned,2024-08-29,2027-08-29
+AST-00520,Monitor,HP E24 G5,Finance,Redmond,Assigned,2024-02-12,2027-02-11
+AST-00532,Tablet,Surface Pro 10,Customer Success,Denver,In Stock,2023-01-02,2026-01-01
+AST-00029,Laptop,Lenovo ThinkPad T14,Operations,Denver,In Stock,2022-12-16,2025-12-15
+AST-00010,Laptop,Surface Laptop 6,Customer Success,New York,In Stock,2023-10-18,2026-10-17
+AST-00420,Monitor,LG 27UP850K,Engineering,Remote,In Stock,2024-01-15,2027-01-14
+AST-00639,Docking Station,Dell WD22TB4,Engineering,Remote,Assigned,2022-11-18,2025-11-17
+AST-00548,Tablet,Surface Pro 10,Customer Success,New York,Assigned,2025-05-14,2028-05-13
+AST-00371,Desktop,Dell OptiPlex 7020,Sales,Redmond,In Stock,2025-12-01,2028-11-30
+AST-00512,Monitor,HP E24 G5,Customer Success,Denver,Assigned,2026-07-07,2029-07-06
+AST-00455,Monitor,HP E24 G5,Sales,Redmond,Assigned,2025-04-26,2028-04-25
+AST-00241,Laptop,Surface Laptop 6,HR,Atlanta,Assigned,2023-04-10,2026-04-09
+AST-00489,Monitor,Dell P2425H,Finance,Redmond,In Repair,2026-06-08,2029-06-07
+AST-00558,Tablet,Surface Pro 10,Engineering,Remote,Retired,2025-09-02,2028-09-01
+AST-00372,Desktop,HP Elite Mini 800,IT,Redmond,Retired,2026-06-23,2029-06-22
+AST-00427,Monitor,LG 27UP850K,Operations,Chicago,Retired,2025-11-07,2028-11-06
+AST-00488,Monitor,Dell P2425H,Customer Success,Redmond,In Stock,2026-04-03,2029-04-02
+AST-00105,Laptop,Lenovo ThinkPad T14,Operations,Remote,Assigned,2025-12-21,2028-12-20
+AST-00529,Monitor,HP E24 G5,Finance,Austin,Assigned,2023-08-28,2026-08-27
+AST-00135,Laptop,Surface Laptop 6,Engineering,Remote,Assigned,2023-12-23,2026-12-22
+AST-00201,Laptop,Lenovo ThinkPad T14,Marketing,Remote,Assigned,2024-10-26,2027-10-26
+AST-00397,Desktop,Dell OptiPlex 7020,Sales,Atlanta,In Repair,2025-02-28,2028-02-28
+AST-00297,Laptop,Dell Latitude 7450,Marketing,Chicago,Assigned,2024-11-25,2027-11-25
+AST-00246,Laptop,Surface Laptop 6,HR,New York,Assigned,2022-12-20,2025-12-19
+AST-00058,Laptop,Surface Laptop 6,Sales,Redmond,Assigned,2023-08-30,2026-08-29
+AST-00087,Laptop,Lenovo ThinkPad T14,IT,Chicago,In Repair,2025-01-19,2028-01-19
+AST-00603,Smartphone,Samsung Galaxy S24,Engineering,Redmond,Assigned,2025-01-07,2028-01-07
+AST-00633,Docking Station,Dell WD22TB4,IT,Remote,Assigned,2023-11-27,2026-11-26
+AST-00178,Laptop,Lenovo ThinkPad T14,Engineering,Redmond,Assigned,2023-02-05,2026-02-04
+AST-00171,Laptop,Surface Laptop 6,Sales,Chicago,Retired,2023-06-20,2026-06-19
+AST-00153,Laptop,Lenovo ThinkPad T14,Marketing,Denver,Assigned,2023-04-29,2026-04-28
+AST-00326,Desktop,HP Elite Mini 800,Sales,Remote,Assigned,2025-06-30,2028-06-29
+AST-00312,Desktop,HP Elite Mini 800,Sales,Atlanta,Assigned,2025-02-11,2028-02-11
+AST-00381,Desktop,HP Elite Mini 800,Marketing,Redmond,Assigned,2024-04-16,2027-04-16
+AST-00081,Laptop,Dell Latitude 7450,Engineering,Chicago,Assigned,2024-09-09,2027-09-09
+AST-00051,Laptop,Lenovo ThinkPad T14,HR,Chicago,Assigned,2024-10-03,2027-10-03
+AST-00660,Docking Station,Dell WD22TB4,IT,Remote,Assigned,2023-04-09,2026-04-08
+AST-00292,Laptop,Dell Latitude 7450,Sales,Austin,Assigned,2023-06-09,2026-06-08
+AST-00060,Laptop,Surface Laptop 6,HR,Austin,Assigned,2022-12-15,2025-12-14
+AST-00388,Desktop,Dell OptiPlex 7020,Sales,New York,Assigned,2023-09-25,2026-09-24
+AST-00621,Smartphone,iPhone 15,Engineering,Remote,Assigned,2025-04-02,2028-04-01
+AST-00223,Laptop,Dell Latitude 7450,Customer Success,Denver,Assigned,2026-07-22,2029-07-21
+AST-00477,Monitor,LG 27UP850K,HR,New York,Assigned,2023-07-07,2026-07-06
+AST-00195,Laptop,Lenovo ThinkPad T14,Marketing,New York,Assigned,2022-10-29,2025-10-28
+AST-00549,Tablet,iPad Air,Sales,Austin,Retired,2023-02-09,2026-02-08
+AST-00444,Monitor,LG 27UP850K,Finance,Atlanta,Assigned,2025-09-04,2028-09-03
+AST-00465,Monitor,LG 27UP850K,Finance,Atlanta,Assigned,2023-05-16,2026-05-15
+AST-00119,Laptop,Surface Laptop 6,Finance,Austin,In Stock,2022-10-23,2025-10-22
+AST-00508,Monitor,Dell P2425H,Finance,Remote,In Stock,2025-01-20,2028-01-20
+AST-00691,Headset,Poly Voyager Focus 2,Finance,Austin,Assigned,2024-11-21,2027-11-21
+AST-00249,Laptop,Dell Latitude 7450,Operations,Denver,In Stock,2024-12-09,2027-12-09
+AST-00287,Laptop,Lenovo ThinkPad T14,Sales,Austin,Assigned,2023-12-07,2026-12-06
+AST-00525,Monitor,LG 27UP850K,Finance,Austin,Assigned,2024-04-23,2027-04-23
+AST-00319,Desktop,HP Elite Mini 800,IT,Chicago,In Repair,2025-10-06,2028-10-05
+AST-00151,Laptop,Surface Laptop 6,Marketing,Chicago,Assigned,2025-05-18,2028-05-17
+AST-00203,Laptop,Lenovo ThinkPad T14,Customer Success,New York,Assigned,2025-02-05,2028-02-05
+AST-00083,Laptop,Surface Laptop 6,Marketing,New York,Assigned,2023-04-15,2026-04-14
+AST-00681,Printer,HP LaserJet Pro,Customer Success,Chicago,Assigned,2025-08-28,2028-08-27
+AST-00417,Monitor,LG 27UP850K,Operations,New York,Retired,2023-12-01,2026-11-30
+AST-00208,Laptop,Lenovo ThinkPad T14,Operations,Denver,Assigned,2024-07-09,2027-07-09
+AST-00436,Monitor,LG 27UP850K,Sales,Redmond,Assigned,2022-11-27,2025-11-26
+AST-00430,Monitor,Dell P2425H,HR,Denver,Assigned,2023-03-16,2026-03-15
+AST-00194,Laptop,Dell Latitude 7450,Engineering,Remote,Assigned,2026-08-28,2029-08-27
+AST-00426,Monitor,Dell P2425H,Marketing,Chicago,Assigned,2026-08-11,2029-08-10
+AST-00563,Tablet,Surface Pro 10,Sales,Austin,In Repair,2024-08-22,2027-08-22
+AST-00572,Tablet,Surface Pro 10,Engineering,Redmond,Assigned,2026-09-09,2029-09-08
+AST-00101,Laptop,Surface Laptop 6,Marketing,Remote,In Stock,2025-12-29,2028-12-28
+AST-00577,Tablet,Surface Pro 10,Sales,Remote,Assigned,2023-04-20,2026-04-19
+AST-00088,Laptop,Surface Laptop 6,HR,Atlanta,Assigned,2025-07-02,2028-07-01
+AST-00624,Smartphone,iPhone 15,Operations,Remote,In Stock,2025-03-20,2028-03-19
+AST-00367,Desktop,Dell OptiPlex 7020,IT,Denver,Assigned,2025-08-07,2028-08-06
+AST-00162,Laptop,Lenovo ThinkPad T14,Customer Success,Chicago,Assigned,2024-09-15,2027-09-15
+AST-00598,Smartphone,iPhone 15,Finance,Denver,Assigned,2025-01-29,2028-01-29
+AST-00466,Monitor,HP E24 G5,Sales,Remote,Assigned,2025-08-22,2028-08-21
+AST-00434,Monitor,Dell P2425H,Customer Success,Denver,Assigned,2025-09-04,2028-09-03
+AST-00252,Laptop,Dell Latitude 7450,Customer Success,Denver,Assigned,2024-03-19,2027-03-19
+AST-00131,Laptop,Lenovo ThinkPad T14,Marketing,Chicago,Assigned,2025-05-28,2028-05-27
+AST-00150,Laptop,Lenovo ThinkPad T14,Marketing,Austin,Assigned,2026-07-12,2029-07-11
+AST-00493,Monitor,HP E24 G5,Customer Success,Chicago,In Stock,2025-11-12,2028-11-11
+AST-00117,Laptop,Lenovo ThinkPad T14,HR,Denver,Assigned,2023-09-04,2026-09-03
+AST-00622,Smartphone,Samsung Galaxy S24,Engineering,Chicago,Assigned,2024-05-15,2027-05-15
+AST-00314,Desktop,HP Elite Mini 800,Engineering,Chicago,Assigned,2024-11-13,2027-11-13
+AST-00435,Monitor,Dell P2425H,Sales,Redmond,In Stock,2026-03-04,2029-03-03
+AST-00671,Printer,HP LaserJet Pro,IT,Atlanta,Assigned,2024-11-17,2027-11-17
+AST-00364,Desktop,Dell OptiPlex 7020,Customer Success,Denver,Assigned,2024-05-14,2027-05-14
+AST-00261,Laptop,Surface Laptop 6,Engineering,Austin,Assigned,2023-01-11,2026-01-10
+AST-00471,Monitor,LG 27UP850K,Customer Success,Chicago,Assigned,2025-06-26,2028-06-25
+AST-00320,Desktop,HP Elite Mini 800,Marketing,Remote,Assigned,2025-04-05,2028-04-04
+AST-00250,Laptop,Surface Laptop 6,HR,Atlanta,Assigned,2025-05-16,2028-05-15
+AST-00303,Laptop,Lenovo ThinkPad T14,Marketing,Austin,In Stock,2023-03-03,2026-03-02
+AST-00030,Laptop,Surface Laptop 6,Customer Success,Redmond,Assigned,2023-07-28,2026-07-27
+AST-00415,Desktop,HP Elite Mini 800,HR,New York,In Repair,2026-05-10,2029-05-09
+AST-00199,Laptop,Lenovo ThinkPad T14,HR,Austin,Assigned,2026-08-31,2029-08-30
+AST-00487,Monitor,HP E24 G5,Engineering,New York,Assigned,2023-03-09,2026-03-08
+AST-00379,Desktop,HP Elite Mini 800,Customer Success,Denver,In Repair,2026-06-11,2029-06-10
+AST-00335,Desktop,Dell OptiPlex 7020,Customer Success,Austin,Assigned,2024-01-09,2027-01-08
+AST-00170,Laptop,Lenovo ThinkPad T14,Customer Success,Chicago,Assigned,2023-06-04,2026-06-03
+AST-00600,Smartphone,iPhone 15,IT,New York,Assigned,2025-07-16,2028-07-15
+AST-00132,Laptop,Lenovo ThinkPad T14,Operations,Chicago,Assigned,2024-03-19,2027-03-19
+AST-00662,Docking Station,Dell WD22TB4,Sales,Remote,Assigned,2026-08-02,2029-08-01
+AST-00076,Laptop,Dell Latitude 7450,Marketing,Atlanta,Assigned,2024-06-13,2027-06-13
+AST-00244,Laptop,Dell Latitude 7450,Engineering,New York,Assigned,2023-05-18,2026-05-17
+AST-00066,Laptop,Lenovo ThinkPad T14,Operations,Austin,Assigned,2025-10-19,2028-10-18
+AST-00279,Laptop,Dell Latitude 7450,Operations,Remote,Assigned,2024-03-18,2027-03-18
+AST-00046,Laptop,Lenovo ThinkPad T14,Marketing,Redmond,Assigned,2022-12-23,2025-12-22
+AST-00376,Desktop,HP Elite Mini 800,IT,Austin,Assigned,2025-06-17,2028-06-16
+AST-00202,Laptop,Dell Latitude 7450,Marketing,New York,Assigned,2024-02-23,2027-02-22
+AST-00182,Laptop,Dell Latitude 7450,Marketing,Denver,Assigned,2022-12-16,2025-12-15
+AST-00041,Laptop,Lenovo ThinkPad T14,Customer Success,Denver,In Stock,2025-09-21,2028-09-20
+AST-00304,Laptop,Surface Laptop 6,Marketing,Denver,Assigned,2024-09-13,2027-09-13
+AST-00580,Tablet,Surface Pro 10,Customer Success,Austin,Assigned,2024-08-04,2027-08-04
+AST-00213,Laptop,Surface Laptop 6,Customer Success,Austin,In Stock,2025-11-07,2028-11-06
+AST-00458,Monitor,LG 27UP850K,Customer Success,Austin,Assigned,2025-03-10,2028-03-09
+AST-00080,Laptop,Surface Laptop 6,HR,Remote,Assigned,2023-10-23,2026-10-22
+AST-00531,Tablet,iPad Air,Engineering,Austin,Assigned,2023-01-05,2026-01-04
+AST-00449,Monitor,HP E24 G5,IT,New York,In Stock,2024-06-06,2027-06-06
+AST-00692,Headset,Jabra Evolve2 65,IT,Redmond,Assigned,2023-01-21,2026-01-20
+AST-00491,Monitor,HP E24 G5,Engineering,Chicago,In Repair,2024-04-22,2027-04-22
+AST-00130,Laptop,Surface Laptop 6,Engineering,Remote,Assigned,2025-05-11,2028-05-10
+AST-00674,Printer,HP LaserJet Pro,Finance,Denver,Assigned,2023-02-28,2026-02-27
+AST-00652,Docking Station,Surface Thunderbolt 4 Dock,IT,Denver,Assigned,2023-08-29,2026-08-28
+AST-00222,Laptop,Lenovo ThinkPad T14,Operations,Chicago,Assigned,2023-11-28,2026-11-27
+AST-00334,Desktop,Dell OptiPlex 7020,Sales,Denver,Assigned,2023-01-12,2026-01-11
+AST-00007,Laptop,Lenovo ThinkPad T14,HR,New York,Assigned,2024-11-15,2027-11-15
+AST-00054,Laptop,Surface Laptop 6,Operations,New York,Assigned,2025-10-16,2028-10-15
+AST-00181,Laptop,Surface Laptop 6,Operations,Redmond,Assigned,2025-01-06,2028-01-06
+AST-00288,Laptop,Dell Latitude 7450,Finance,Redmond,Assigned,2025-05-22,2028-05-21
+AST-00155,Laptop,Surface Laptop 6,IT,Remote,In Stock,2024-12-09,2027-12-09
+AST-00454,Monitor,HP E24 G5,Marketing,Chicago,Retired,2023-10-06,2026-10-05
+AST-00056,Laptop,Surface Laptop 6,Engineering,New York,Assigned,2025-08-27,2028-08-26
+AST-00386,Desktop,Dell OptiPlex 7020,Customer Success,Chicago,Assigned,2025-12-08,2028-12-07
+AST-00123,Laptop,Lenovo ThinkPad T14,Customer Success,Chicago,Assigned,2025-07-08,2028-07-07
+AST-00585,Tablet,iPad Air,Operations,Atlanta,Assigned,2022-11-03,2025-11-02
+AST-00129,Laptop,Lenovo ThinkPad T14,Customer Success,Chicago,Assigned,2024-09-12,2027-09-12
+AST-00632,Docking Station,Surface Thunderbolt 4 Dock,HR,Remote,Assigned,2024-01-03,2027-01-02
+AST-00587,Smartphone,Samsung Galaxy S24,Marketing,Denver,Assigned,2026-06-17,2029-06-16
+AST-00022,Laptop,Surface Laptop 6,Engineering,Denver,Assigned,2022-10-20,2025-10-19
+AST-00015,Laptop,Surface Laptop 6,Customer Success,Austin,In Stock,2026-09-06,2029-09-05
+AST-00497,Monitor,LG 27UP850K,HR,Denver,Assigned,2026-08-19,2029-08-18
+AST-00002,Laptop,Dell Latitude 7450,Operations,Remote,In Stock,2025-06-03,2028-06-02
+AST-00391,Desktop,HP Elite Mini 800,Sales,Chicago,Assigned,2023-09-06,2026-09-05
+AST-00331,Desktop,HP Elite Mini 800,HR,New York,Assigned,2023-01-13,2026-01-12
+AST-00187,Laptop,Lenovo ThinkPad T14,Operations,Denver,Assigned,2026-01-13,2029-01-12
+AST-00043,Laptop,Lenovo ThinkPad T14,Operations,Remote,Assigned,2022-10-16,2025-10-15
+AST-00655,Docking Station,Dell WD22TB4,Finance,Chicago,Assigned,2024-11-29,2027-11-29
+AST-00026,Laptop,Dell Latitude 7450,HR,Chicago,Assigned,2024-08-28,2027-08-28
+AST-00428,Monitor,LG 27UP850K,Operations,Austin,Assigned,2023-04-16,2026-04-15
+AST-00377,Desktop,Dell OptiPlex 7020,Operations,Remote,Assigned,2023-09-18,2026-09-17
+AST-00095,Laptop,Surface Laptop 6,Operations,New York,In Repair,2025-08-16,2028-08-15
+AST-00198,Laptop,Surface Laptop 6,HR,Atlanta,Assigned,2022-10-21,2025-10-20
+AST-00340,Desktop,HP Elite Mini 800,Engineering,Chicago,Assigned,2026-06-04,2029-06-03
+AST-00004,Laptop,Surface Laptop 6,Finance,Austin,Assigned,2023-07-31,2026-07-30
+AST-00291,Laptop,Dell Latitude 7450,Customer Success,Remote,Assigned,2023-06-25,2026-06-24
+AST-00282,Laptop,Surface Laptop 6,HR,Redmond,Assigned,2025-08-29,2028-08-28
+AST-00507,Monitor,HP E24 G5,Marketing,Austin,Assigned,2025-04-26,2028-04-25
+AST-00410,Desktop,HP Elite Mini 800,HR,Redmond,Assigned,2025-05-30,2028-05-29
+AST-00289,Laptop,Lenovo ThinkPad T14,Engineering,Austin,Assigned,2025-01-11,2028-01-11
+AST-00640,Docking Station,Dell WD22TB4,Sales,Denver,Assigned,2023-11-19,2026-11-18
+AST-00541,Tablet,Surface Pro 10,Sales,New York,In Stock,2026-03-13,2029-03-12
+AST-00190,Laptop,Dell Latitude 7450,Marketing,Chicago,In Stock,2025-12-26,2028-12-25
+AST-00103,Laptop,Lenovo ThinkPad T14,Finance,Redmond,In Stock,2025-11-21,2028-11-20
+AST-00100,Laptop,Dell Latitude 7450,Marketing,Chicago,In Repair,2026-09-12,2029-09-11
+AST-00656,Docking Station,Dell WD22TB4,Operations,Denver,Assigned,2023-06-02,2026-06-01
+AST-00313,Desktop,HP Elite Mini 800,Marketing,Atlanta,Assigned,2026-04-25,2029-04-24
+AST-00031,Laptop,Surface Laptop 6,Finance,Redmond,Retired,2024-11-04,2027-11-04
+AST-00005,Laptop,Lenovo ThinkPad T14,Marketing,Austin,Retired,2025-02-11,2028-02-11
+AST-00544,Tablet,iPad Air,Operations,Redmond,Assigned,2023-02-01,2026-01-31
+AST-00524,Monitor,HP E24 G5,IT,Austin,Assigned,2022-10-30,2025-10-29
+AST-00576,Tablet,Surface Pro 10,Operations,Chicago,In Stock,2025-10-06,2028-10-05
+AST-00438,Monitor,HP E24 G5,Operations,Chicago,Assigned,2026-07-24,2029-07-23
+AST-00528,Monitor,LG 27UP850K,Engineering,Denver,Assigned,2023-11-23,2026-11-22
+AST-00556,Tablet,Surface Pro 10,IT,Chicago,Assigned,2026-06-14,2029-06-13
+AST-00666,Printer,HP LaserJet Pro,HR,Denver,Assigned,2025-06-12,2028-06-11
+AST-00375,Desktop,HP Elite Mini 800,Finance,Chicago,In Stock,2024-06-05,2027-06-05
+AST-00515,Monitor,LG 27UP850K,Sales,Remote,Assigned,2022-12-18,2025-12-17
+AST-00073,Laptop,Lenovo ThinkPad T14,Marketing,Denver,Assigned,2024-08-20,2027-08-20
+AST-00519,Monitor,HP E24 G5,HR,New York,Assigned,2023-06-08,2026-06-07
+AST-00634,Docking Station,Surface Thunderbolt 4 Dock,IT,Remote,Assigned,2026-08-09,2029-08-08
+AST-00644,Docking Station,Surface Thunderbolt 4 Dock,HR,New York,In Repair,2024-11-11,2027-11-11
+AST-00276,Laptop,Dell Latitude 7450,Finance,Austin,Assigned,2023-04-01,2026-03-31
+AST-00124,Laptop,Lenovo ThinkPad T14,Customer Success,Denver,Assigned,2024-06-21,2027-06-21
+AST-00161,Laptop,Lenovo ThinkPad T14,Engineering,Chicago,Retired,2026-08-08,2029-08-07
+AST-00518,Monitor,LG 27UP850K,Marketing,Remote,Assigned,2026-01-16,2029-01-15
+AST-00262,Laptop,Surface Laptop 6,Finance,Redmond,Assigned,2025-07-11,2028-07-10
+AST-00343,Desktop,HP Elite Mini 800,IT,Redmond,Assigned,2023-07-17,2026-07-16
+AST-00403,Desktop,HP Elite Mini 800,Customer Success,Austin,Assigned,2026-06-25,2029-06-24
+AST-00394,Desktop,HP Elite Mini 800,Sales,Chicago,Assigned,2026-03-01,2029-02-28
+AST-00265,Laptop,Lenovo ThinkPad T14,Finance,Denver,Assigned,2022-11-25,2025-11-24
+AST-00476,Monitor,Dell P2425H,Finance,Chicago,Assigned,2024-01-20,2027-01-19
+AST-00149,Laptop,Dell Latitude 7450,Customer Success,Austin,Assigned,2023-03-31,2026-03-30
+AST-00389,Desktop,Dell OptiPlex 7020,IT,Atlanta,In Repair,2024-06-09,2027-06-09
+AST-00040,Laptop,Dell Latitude 7450,IT,Atlanta,Assigned,2023-06-03,2026-06-02
+AST-00503,Monitor,Dell P2425H,Finance,Redmond,Assigned,2026-04-14,2029-04-13
+AST-00160,Laptop,Surface Laptop 6,IT,New York,Assigned,2025-12-23,2028-12-22
+AST-00267,Laptop,Surface Laptop 6,Customer Success,New York,Assigned,2025-03-26,2028-03-25
+AST-00266,Laptop,Dell Latitude 7450,Sales,Remote,In Repair,2026-09-18,2029-09-17
+AST-00175,Laptop,Dell Latitude 7450,Operations,Chicago,Assigned,2024-11-21,2027-11-21
+AST-00037,Laptop,Surface Laptop 6,IT,Redmond,In Stock,2025-12-04,2028-12-03
+AST-00456,Monitor,Dell P2425H,Sales,Denver,Assigned,2026-01-20,2029-01-19
+AST-00357,Desktop,HP Elite Mini 800,Engineering,New York,In Stock,2023-03-26,2026-03-25
+AST-00514,Monitor,HP E24 G5,Customer Success,Atlanta,Assigned,2024-02-05,2027-02-04
+AST-00552,Tablet,iPad Air,Finance,Atlanta,Assigned,2024-12-16,2027-12-16
+AST-00071,Laptop,Dell Latitude 7450,HR,Austin,Assigned,2026-01-13,2029-01-12
+AST-00522,Monitor,HP E24 G5,HR,Denver,Assigned,2024-06-08,2027-06-08
+AST-00533,Tablet,Surface Pro 10,IT,Remote,Assigned,2023-01-15,2026-01-14
+AST-00003,Laptop,Dell Latitude 7450,Finance,Austin,Assigned,2023-09-20,2026-09-19
+AST-00143,Laptop,Lenovo ThinkPad T14,Sales,Atlanta,Assigned,2025-03-16,2028-03-15
+AST-00540,Tablet,iPad Air,HR,Remote,Assigned,2026-05-14,2029-05-13
+AST-00063,Laptop,Dell Latitude 7450,HR,Chicago,Assigned,2024-03-15,2027-03-15
+AST-00092,Laptop,Surface Laptop 6,IT,New York,Assigned,2025-09-15,2028-09-14
+AST-00495,Monitor,LG 27UP850K,Customer Success,Atlanta,In Repair,2023-01-08,2026-01-07
+AST-00120,Laptop,Surface Laptop 6,HR,Denver,In Stock,2025-10-08,2028-10-07
+AST-00285,Laptop,Dell Latitude 7450,Engineering,Denver,Assigned,2024-06-24,2027-06-24
+AST-00638,Docking Station,Surface Thunderbolt 4 Dock,Finance,Redmond,Assigned,2025-03-20,2028-03-19
+AST-00065,Laptop,Lenovo ThinkPad T14,Sales,Austin,In Stock,2025-02-10,2028-02-10
+AST-00038,Laptop,Dell Latitude 7450,Finance,Chicago,In Stock,2023-04-14,2026-04-13
+AST-00254,Laptop,Surface Laptop 6,Marketing,Redmond,In Stock,2022-10-26,2025-10-25
+AST-00325,Desktop,HP Elite Mini 800,Finance,Austin,Assigned,2022-10-29,2025-10-28
+AST-00502,Monitor,LG 27UP850K,Customer Success,Austin,Assigned,2025-12-14,2028-12-13
+AST-00579,Tablet,iPad Air,Engineering,Austin,Assigned,2024-07-27,2027-07-27
+AST-00057,Laptop,Surface Laptop 6,IT,Atlanta,Assigned,2024-10-15,2027-10-15
+AST-00309,Laptop,Lenovo ThinkPad T14,Engineering,Redmond,Assigned,2024-01-24,2027-01-23
+AST-00628,Smartphone,Samsung Galaxy S24,Marketing,New York,Assigned,2025-06-15,2028-06-14
+AST-00554,Tablet,iPad Air,Marketing,New York,Assigned,2023-12-27,2026-12-26
+AST-00275,Laptop,Lenovo ThinkPad T14,HR,Atlanta,Assigned,2025-12-03,2028-12-02
+AST-00251,Laptop,Surface Laptop 6,Finance,Redmond,Assigned,2025-07-16,2028-07-15
+AST-00216,Laptop,Surface Laptop 6,Engineering,Denver,Assigned,2024-12-13,2027-12-13
+AST-00661,Docking Station,Surface Thunderbolt 4 Dock,IT,Atlanta,In Stock,2024-01-07,2027-01-06
+AST-00536,Tablet,Surface Pro 10,Operations,New York,Assigned,2023-12-24,2026-12-23
+AST-00159,Laptop,Dell Latitude 7450,Engineering,Austin,Assigned,2024-09-22,2027-09-22
+AST-00361,Desktop,HP Elite Mini 800,Marketing,Remote,In Stock,2024-06-01,2027-06-01
+AST-00232,Laptop,Lenovo ThinkPad T14,Sales,Remote,Assigned,2022-10-29,2025-10-28
+AST-00504,Monitor,HP E24 G5,IT,Chicago,Assigned,2023-04-08,2026-04-07
+AST-00368,Desktop,Dell OptiPlex 7020,Marketing,Austin,Assigned,2024-09-04,2027-09-04
+AST-00646,Docking Station,Dell WD22TB4,Engineering,New York,Assigned,2023-11-19,2026-11-18
+AST-00657,Docking Station,Dell WD22TB4,Marketing,Redmond,Assigned,2023-06-01,2026-05-31
+AST-00310,Laptop,Lenovo ThinkPad T14,Engineering,Remote,Assigned,2023-11-25,2026-11-24
+AST-00145,Laptop,Lenovo ThinkPad T14,Engineering,Atlanta,Assigned,2024-07-08,2027-07-08
+AST-00006,Laptop,Lenovo ThinkPad T14,Sales,Chicago,Assigned,2023-03-11,2026-03-10
+AST-00613,Smartphone,Samsung Galaxy S24,Customer Success,Austin,In Repair,2026-09-20,2029-09-19
+AST-00620,Smartphone,iPhone 15,Operations,Remote,Assigned,2025-09-23,2028-09-22
+AST-00321,Desktop,HP Elite Mini 800,Finance,Remote,In Repair,2026-04-01,2029-03-31
+AST-00517,Monitor,LG 27UP850K,Marketing,Remote,Assigned,2024-02-19,2027-02-18
+AST-00301,Laptop,Dell Latitude 7450,Engineering,Redmond,Assigned,2022-12-07,2025-12-06
+AST-00546,Tablet,Surface Pro 10,Marketing,Denver,Assigned,2024-07-30,2027-07-30
+AST-00163,Laptop,Surface Laptop 6,Operations,Austin,Assigned,2026-07-31,2029-07-30
+AST-00283,Laptop,Lenovo ThinkPad T14,Operations,New York,Assigned,2024-06-12,2027-06-12
+AST-00669,Printer,HP LaserJet Pro,HR,New York,Assigned,2025-11-05,2028-11-04
+AST-00490,Monitor,Dell P2425H,IT,Chicago,In Stock,2023-01-28,2026-01-27
+AST-00233,Laptop,Surface Laptop 6,Finance,Atlanta,Assigned,2024-11-28,2027-11-28
+AST-00322,Desktop,Dell OptiPlex 7020,Finance,Austin,Assigned,2023-10-03,2026-10-02
+AST-00348,Desktop,HP Elite Mini 800,Finance,Redmond,Assigned,2024-01-31,2027-01-30
+AST-00047,Laptop,Dell Latitude 7450,Operations,Atlanta,In Stock,2025-11-21,2028-11-20
+AST-00481,Monitor,Dell P2425H,IT,Atlanta,Assigned,2024-03-06,2027-03-06
+AST-00406,Desktop,HP Elite Mini 800,Sales,Redmond,In Repair,2026-01-22,2029-01-21
+AST-00049,Laptop,Surface Laptop 6,Engineering,Redmond,Assigned,2024-05-22,2027-05-22
+AST-00452,Monitor,LG 27UP850K,Marketing,Denver,Assigned,2023-02-18,2026-02-17
+AST-00227,Laptop,Surface Laptop 6,Operations,Chicago,Retired,2024-05-19,2027-05-19
+AST-00338,Desktop,HP Elite Mini 800,Sales,Denver,Assigned,2024-09-24,2027-09-24
+AST-00013,Laptop,Lenovo ThinkPad T14,Finance,Austin,Assigned,2022-10-29,2025-10-28
+AST-00683,Printer,Brother HL-L2460DW,HR,Atlanta,Assigned,2023-09-07,2026-09-06
+AST-00583,Tablet,Surface Pro 10,Finance,New York,Assigned,2024-02-12,2027-02-11
+AST-00365,Desktop,HP Elite Mini 800,Customer Success,Austin,Assigned,2025-04-24,2028-04-23
+AST-00645,Docking Station,Surface Thunderbolt 4 Dock,Customer Success,Redmond,Assigned,2026-07-23,2029-07-22
+AST-00239,Laptop,Lenovo ThinkPad T14,HR,Chicago,Assigned,2023-03-24,2026-03-23
+AST-00351,Desktop,HP Elite Mini 800,Customer Success,Atlanta,In Stock,2023-12-18,2026-12-17
+AST-00629,Smartphone,Samsung Galaxy S24,Customer Success,Redmond,Assigned,2024-03-20,2027-03-20
+AST-00496,Monitor,LG 27UP850K,Sales,Remote,Assigned,2025-05-10,2028-05-09
+AST-00654,Docking Station,Dell WD22TB4,Marketing,Remote,In Stock,2023-08-17,2026-08-16
+AST-00107,Laptop,Lenovo ThinkPad T14,IT,New York,Assigned,2026-09-29,2029-09-28
+AST-00044,Laptop,Surface Laptop 6,Customer Success,Denver,Assigned,2023-10-28,2026-10-27
+AST-00650,Docking Station,Surface Thunderbolt 4 Dock,Engineering,Redmond,In Repair,2026-09-11,2029-09-10
+AST-00221,Laptop,Surface Laptop 6,Sales,Austin,Assigned,2024-04-29,2027-04-29
+AST-00441,Monitor,HP E24 G5,IT,Chicago,In Stock,2023-01-06,2026-01-05
+AST-00422,Monitor,LG 27UP850K,IT,Remote,Assigned,2022-10-19,2025-10-18
+AST-00437,Monitor,Dell P2425H,Operations,Redmond,Assigned,2025-07-19,2028-07-18
+AST-00399,Desktop,HP Elite Mini 800,Sales,New York,Assigned,2025-12-07,2028-12-06
+AST-00180,Laptop,Surface Laptop 6,IT,New York,Assigned,2026-06-28,2029-06-27
+AST-00684,Printer,HP LaserJet Pro,Operations,New York,Assigned,2025-02-10,2028-02-10
+AST-00281,Laptop,Dell Latitude 7450,Operations,Austin,In Stock,2023-02-14,2026-02-13
+AST-00118,Laptop,Dell Latitude 7450,Sales,Redmond,Assigned,2023-01-19,2026-01-18
+AST-00305,Laptop,Lenovo ThinkPad T14,Sales,Remote,Assigned,2025-10-14,2028-10-13
+AST-00096,Laptop,Dell Latitude 7450,IT,New York,Assigned,2023-12-19,2026-12-18
+AST-00400,Desktop,HP Elite Mini 800,IT,Chicago,Assigned,2025-01-29,2028-01-29
+AST-00052,Laptop,Lenovo ThinkPad T14,Operations,Remote,Assigned,2024-08-21,2027-08-21
+AST-00186,Laptop,Surface Laptop 6,Customer Success,New York,Assigned,2025-03-13,2028-03-12
+AST-00323,Desktop,HP Elite Mini 800,Engineering,Denver,In Stock,2025-06-09,2028-06-08
+AST-00253,Laptop,Dell Latitude 7450,Marketing,Redmond,In Stock,2026-05-20,2029-05-19
+AST-00183,Laptop,Lenovo ThinkPad T14,HR,Austin,Assigned,2025-05-12,2028-05-11
+AST-00686,Headset,Poly Voyager Focus 2,Sales,New York,Assigned,2024-10-18,2027-10-18
+AST-00607,Smartphone,iPhone 15,Finance,Redmond,Assigned,2026-06-12,2029-06-11
+AST-00329,Desktop,Dell OptiPlex 7020,Marketing,Austin,Assigned,2024-05-11,2027-05-11
+AST-00324,Desktop,Dell OptiPlex 7020,HR,Austin,Assigned,2026-08-09,2029-08-08
+AST-00097,Laptop,Dell Latitude 7450,HR,Denver,In Repair,2023-03-22,2026-03-21
+AST-00409,Desktop,Dell OptiPlex 7020,Operations,Redmond,Assigned,2022-11-02,2025-11-01
+AST-00128,Laptop,Lenovo ThinkPad T14,Sales,Chicago,In Stock,2025-08-27,2028-08-26
+AST-00678,Printer,HP LaserJet Pro,Marketing,Remote,Assigned,2024-04-01,2027-04-01
+AST-00617,Smartphone,iPhone 15,Sales,Redmond,In Repair,2026-04-26,2029-04-25
+AST-00209,Laptop,Lenovo ThinkPad T14,Sales,Remote,Assigned,2023-05-29,2026-05-28
+AST-00354,Desktop,Dell OptiPlex 7020,HR,Atlanta,Assigned,2023-07-27,2026-07-26
+AST-00516,Monitor,HP E24 G5,HR,Atlanta,Assigned,2024-03-23,2027-03-23
+AST-00565,Tablet,iPad Air,Customer Success,Atlanta,Assigned,2023-10-16,2026-10-15
+AST-00680,Printer,HP LaserJet Pro,Engineering,Denver,Assigned,2025-06-12,2028-06-11
+AST-00615,Smartphone,Samsung Galaxy S24,Customer Success,New York,In Stock,2026-03-04,2029-03-03
+AST-00137,Laptop,Lenovo ThinkPad T14,Sales,New York,Assigned,2026-03-02,2029-03-01
+AST-00099,Laptop,Surface Laptop 6,Finance,Denver,Assigned,2022-12-05,2025-12-04
+AST-00360,Desktop,HP Elite Mini 800,Finance,Austin,Assigned,2026-05-08,2029-05-07
+AST-00480,Monitor,Dell P2425H,Engineering,Chicago,Assigned,2026-07-08,2029-07-07
+AST-00569,Tablet,iPad Air,IT,Redmond,Assigned,2023-08-24,2026-08-23
+AST-00176,Laptop,Dell Latitude 7450,Engineering,Remote,Retired,2024-01-14,2027-01-13
+AST-00470,Monitor,HP E24 G5,Sales,Chicago,Assigned,2026-06-06,2029-06-05
+AST-00248,Laptop,Surface Laptop 6,IT,Chicago,Retired,2022-12-10,2025-12-09
+AST-00332,Desktop,Dell OptiPlex 7020,Operations,Austin,Assigned,2025-10-24,2028-10-23
+AST-00214,Laptop,Dell Latitude 7450,Customer Success,Atlanta,In Stock,2024-11-08,2027-11-08
+AST-00215,Laptop,Surface Laptop 6,Finance,Remote,Retired,2023-07-29,2026-07-28
+AST-00404,Desktop,HP Elite Mini 800,Marketing,Redmond,Assigned,2025-09-05,2028-09-04
+AST-00413,Desktop,HP Elite Mini 800,Operations,Remote,Assigned,2023-11-27,2026-11-26
+AST-00185,Laptop,Dell Latitude 7450,Sales,New York,Assigned,2025-05-20,2028-05-19
+AST-00602,Smartphone,Samsung Galaxy S24,Customer Success,New York,Assigned,2025-06-23,2028-06-22
+AST-00064,Laptop,Dell Latitude 7450,Operations,Austin,Assigned,2023-09-20,2026-09-19
+AST-00601,Smartphone,Samsung Galaxy S24,Marketing,Denver,Assigned,2026-01-29,2029-01-28
+AST-00036,Laptop,Surface Laptop 6,Sales,Atlanta,Assigned,2026-01-28,2029-01-27
+AST-00079,Laptop,Dell Latitude 7450,Customer Success,New York,In Stock,2023-03-20,2026-03-19
+AST-00501,Monitor,HP E24 G5,Marketing,Redmond,Assigned,2024-11-22,2027-11-22
+AST-00396,Desktop,Dell OptiPlex 7020,Customer Success,Austin,Assigned,2025-04-10,2028-04-09
+AST-00575,Tablet,iPad Air,Engineering,New York,In Stock,2025-01-13,2028-01-13
+AST-00106,Laptop,Lenovo ThinkPad T14,Marketing,Chicago,In Stock,2023-06-17,2026-06-16
+AST-00286,Laptop,Dell Latitude 7450,Customer Success,Austin,Assigned,2023-03-30,2026-03-29
+AST-00566,Tablet,Surface Pro 10,Marketing,Austin,In Repair,2024-10-07,2027-10-07
+AST-00648,Docking Station,Dell WD22TB4,Sales,New York,Assigned,2024-04-01,2027-04-01
+AST-00012,Laptop,Surface Laptop 6,Finance,Denver,Assigned,2025-04-28,2028-04-27
+AST-00384,Desktop,Dell OptiPlex 7020,Finance,Chicago,Assigned,2025-03-07,2028-03-06
+AST-00230,Laptop,Surface Laptop 6,IT,Chicago,Assigned,2025-10-14,2028-10-13
+AST-00414,Desktop,HP Elite Mini 800,Finance,Chicago,Assigned,2025-11-23,2028-11-22
+AST-00631,Docking Station,Dell WD22TB4,Finance,Chicago,Assigned,2026-04-21,2029-04-20
+AST-00453,Monitor,Dell P2425H,Customer Success,Chicago,Assigned,2023-03-11,2026-03-10
+AST-00626,Smartphone,Samsung Galaxy S24,HR,Chicago,Assigned,2025-02-14,2028-02-14
+AST-00677,Printer,HP LaserJet Pro,Customer Success,Remote,Retired,2023-03-08,2026-03-07
+AST-00021,Laptop,Lenovo ThinkPad T14,Finance,Chicago,Assigned,2023-08-19,2026-08-18
+AST-00166,Laptop,Surface Laptop 6,Marketing,Austin,Assigned,2024-08-15,2027-08-15
+AST-00484,Monitor,Dell P2425H,Marketing,Chicago,Assigned,2024-10-16,2027-10-16
+AST-00206,Laptop,Surface Laptop 6,Customer Success,Austin,Assigned,2023-07-16,2026-07-15
+AST-00014,Laptop,Lenovo ThinkPad T14,IT,New York,Assigned,2025-11-18,2028-11-17
+AST-00382,Desktop,Dell OptiPlex 7020,Sales,Remote,Assigned,2026-02-23,2029-02-22
+AST-00412,Desktop,Dell OptiPlex 7020,Sales,New York,Assigned,2026-04-14,2029-04-13
+AST-00568,Tablet,iPad Air,Engineering,Redmond,Assigned,2023-12-11,2026-12-10
+AST-00271,Laptop,Surface Laptop 6,IT,Remote,Assigned,2025-05-18,2028-05-17
+AST-00695,Headset,Poly Voyager Focus 2,Engineering,Austin,Assigned,2023-12-06,2026-12-05
+AST-00298,Laptop,Lenovo ThinkPad T14,HR,New York,Assigned,2025-07-10,2028-07-09
+AST-00070,Laptop,Lenovo ThinkPad T14,Customer Success,Denver,Assigned,2022-12-21,2025-12-20
+AST-00442,Monitor,Dell P2425H,Marketing,Chicago,Assigned,2026-09-10,2029-09-09
+AST-00653,Docking Station,Surface Thunderbolt 4 Dock,Sales,Remote,Assigned,2026-06-13,2029-06-12
