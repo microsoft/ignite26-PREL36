@@ -15,13 +15,13 @@ The agent gathers and interprets the request. A workflow executes the repeatable
 1. Rename the workflow +++Send device request email+++. The final device skill references this exact tool name.
 1. Select the **Start** trigger node.
 1. Change the trigger type from **Manual** to **When an agent calls the workflow**.
-1. Add three **Text** inputs with the following exact names and descriptions:
+1. Add one **Number** input and two **Text** inputs with the following exact names, types, and descriptions:
 
-    | Input name | Description |
-    | --- | --- |
-    | `sharepointItemId` | The ID of the SharePoint list item to retrieve |
-    | `additionalComment` | Additional comment from the requestor |
-    | `requestorName` | Name of the requestor |
+    | Input name | Type | Description |
+    | --- | --- | --- |
+    | `sharepointItemId` | Number | The ID of the SharePoint list item to retrieve |
+    | `additionalComment` | Text | Additional comment from the requestor |
+    | `requestorName` | Text | Name of the requestor |
 
     ![Configure the workflow trigger inputs](./assets/07-configure-text-inputs-on-workflow-trigger.png)
 
@@ -128,13 +128,8 @@ These inputs are the contract between the skill and workflow. The selected optio
 1. Confirm the workflow appears in **Tools**.
 1. Open **device-guidance-v1-0-3** under **Skills**.
 1. Select its **ellipsis (...)**, then **Replace**.
-1. Upload:
-
-    ```text
-    D:\LabFiles\PREL36\skills\device-guidance-v1-0-4\SKILL.md
-    ```
-
-    If needed, [download the workflow-enabled SKILL.md](./downloads/skills/device-guidance-v1-0-4/SKILL.md).
+1. Open a new browser tab and go to +++https://raw.githubusercontent.com/microsoft/ignite26-PREL36/main/instructions/downloads/skills/device-guidance-v1-0-4/SKILL.md+++ to open the workflow-enabled `SKILL.md`.
+1. Upload the workflow-enabled `SKILL.md`.
 
 1. Review the final skill. It collects requirements, asks for confirmation, obtains the requester name from authenticated user context, and passes the selected SharePoint item ID to the workflow.
 1. Update the device skill reference under **For device requests:** in the agent instructions:
