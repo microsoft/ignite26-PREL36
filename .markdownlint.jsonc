@@ -1,0 +1,19 @@
+{
+  "default": true,
+  // Preserve long-form instructions, tables, and copy/paste blocks.
+  "MD013": false,
+  // These elements provide the README banner, anchor, and owner table.
+  "MD033": {
+    "allowed_elements": [
+      "a",
+      "b",
+      "br",
+      "img",
+      "p",
+      "sub",
+      "table",
+      "td",
+      "tr"
+    ]
+  }
+}

@@ -1,6 +1,8 @@
-# 7 - Publish and plan for operation
+# 8 - Publish and plan for operation
 
 Publishing makes a saved version available through a channel. Sharing and tenant policies control who can discover and install it. Publishing does not change the agent's harness.
+
+Before continuing, complete [Review, improve, and evaluate the agent](./07-Review-And-Evaluate.md). Resolve blocking Review findings and failed evaluation evidence checks before publishing.
 
 ## Publish the agent and configure its listing
 
@@ -77,6 +79,6 @@ For current terms, consult [GitHub Copilot harness billing](https://learn.micros
 
 ## Lab complete
 
-You built a solution-backed agent, grounded it in approved knowledge, connected live data and reusable skills, executed a confirmed request through a workflow, checked cancellation, and published to an employee channel.
+You built a solution-backed agent, grounded it in approved knowledge, connected live data and reusable skills, executed a confirmed request through a workflow, checked cancellation, improved the device-selection instructions, evaluated seven conversations, and published to an employee channel.
 
 Select **Next**, then **Submit** when you are ready to finish the lab.

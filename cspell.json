@@ -1,0 +1,30 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "files": [
+    "**/*.md",
+    "instructions/downloads/evaluation/*.csv"
+  ],
+  "words": [
+    "benitez",
+    "Contoso",
+    "Dataverse",
+    "Dunnam",
+    "elaiza",
+    "frontmatter",
+    "microsoftdocs",
+    "opensource",
+    "PREL36",
+    "requestable",
+    "Skillable",
+    "WWLM365E7"
+  ],
+  "overrides": [
+    {
+      "filename": "instructions/assets/evaluation/README.md",
+      "ignoreRegExpList": [
+        "/05\\.15-conections\\.png/g"
+      ]
+    }
+  ]
+}
